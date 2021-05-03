@@ -1,0 +1,747 @@
+,text,crowd_label,conf0,conf1,itemID
+0,levonorgestrel breast cancer estim rate endometri patholog prophylact use levonorgestrel-releas intrauterin system women breast cancer treat tamoxifen,0,1.0,0.0,990
+1,vinblastin nsclc patient stage iiib iv nsclc random start treatment receiv either three six cours mitomycin num mg/m num cours num num num num vinblastin num mg/m num cisplatin num2 mg/m num mvp everi num2 day,0,1.0,0.0,1499
+2,atp carcinoma hypoton challeng not camp stimul found induc releas atp measur luciferin-luciferas assay murin mammari carcinoma cell line cnum3i cnum3 cell stabli transfect cdna human cystic fibrosi transmembran conduct regul cftr protein cnum3/cftr,0,1.0,0.0,2166
+3,vitamin d. colorect cancer dietari intak retinol vitamin thiamin riboflavin vitamin b6 folat vitamin bnum2 vitamin calcium iron magnesium potassium n num fatti acid n num fatti acid ratio n num n num fatti acid estim associ colorect cancer examin use condit logist regress model adjust exact age height weight energi intak alcohol intak fiber intak smoke educ social class physic activ,0,0.7939,0.20609999999999995,410
+4,levothyroxin hypothyroid one pregnant patient take levothyroxin hypothyroid,0,1.0,0.0,2031
+5,tetracain ear infect use extemporan compound num tetracain improv adher clotrimazol num topic solut treatment ear infect case report,0,1.0,0.0,1418
+6,tamoxifen breast cancer/uterin cancer num3 women identifi histori breast cancer treat tamoxifen preced diagnosi uterin cancer,0,0.7906,0.20940000000000009,387
+7,dopamin impuls control disord riski busi dopamin agonist parkinson diseas impuls control disord,0,0.804,0.19599999999999995,2606
+8,aspirin embol event active-w atrial fibril clopidogrel trial irbesartan prevent vascular event studi demonstr warfarin superior platelet therapi clopidogrel plu aspirin prevent af embol event,0,1.0,0.0,2616
+9,terazosin hypertens data demonstr use terazosin monotherapi add-on therapi treatment hypertens,0,1.0,0.0,872
+10,naltrexon alcohol disulfiram naltrexon approv food drug administr fda treatment alcohol agent not rigor evalu dualli diagnos individu,0,1.0,0.0,640
+11,vemurafenib melanoma literatur access medlin intern pharmaceut abstract num4-novemb num4 use term melanoma metastat melanoma ipilimumab vemurafenib dabrafenib trametinib,0,1.0,0.0,973
+12,toremifen breast cancer forty-nin postmenopaus patient node-posit breast cancer random trial compar effect tamoxifen toremifen serum lipoprotein,0,1.0,0.0,98
+13,fatti acid colorect cancer vitamin miner essenti fatti acid colorect cancer risk unit kingdom dietari cohort consortium,0,1.0,0.0,1328
+14,num-hydroxydeoxyguanosin cancer determin urinari num-hydroxydeoxyguanosin autom coupled-column high perform liquid chromatographi power techniqu assay vivo oxid dna damag cancer patient,0,1.0,0.0,2402
+15,procarbazin rhabdomyosarcoma tumor includ childhood high-grad glioma d-num3 mg d-num3 mg adult high-grad glioma d-num2 mg d-num3 mg medulloblastoma dnum3 med dnum3 med ependymoma dnum3 ep dnum3 ep rhabdomyosarcoma te-num3 well sublin demonstr resist busulfan d-num3 mg br cyclophosphamid te-num3 cr procarbazin d-num3 mg pr melphalan te-num3 mr grow subcutan intracrani athym nude mice,0,1.0,0.0,532
+16,heparin thromboembol retrospect evalu effect heparin use thromboembol bleed complic implant heartmat ii left ventricular assist devic lvad,0,0.8156,0.1844,1402
+17,mtx ra acceler nodulosi mtx ra not rare occur despit good clinic respons polyarthr,0,1.0,0.0,2699
+18,retino acid retino acid/ra investig effect retino acid ra retinyl acet rac product reactiv oxygen metabolit releas lysosom enzym human polymorphonuclear leukocyt pmn,0,1.0,0.0,3011
+19,formoterol fumar asthmat ten asthmat patient enrol studi effect dri powder formoterol fumar,0,1.0,0.0,1964
+20,polyphenol cancer addit also propos tea polyphenol function cancer chemoprevent agent modul mitot signal transduct,0,0.8044,0.1956,1138
+21,ofx/ofloxacin bacteri kerat compar vitro suscept pattern minimum inhibitori concentr mic gatifloxacin gat moxifloxacin mox fourth-gener fluoroquinolon ciprofloxacin cip ofloxacin ofx second-gener fluoroquinolon levofloxacin lev third-gener fluoroquinolon use bacteri kerat isol,0,1.0,0.0,1147
+22,glucos sepsi glucos prove nitrogen spare properti postop patient critic ill patient toler glucos load poorli fat appear obligatori fuel sepsi,0,0.8263,0.17369999999999994,2208
+23,tzd type furthermor incid anemia end reach num group tzd num2 group acei/arb/tzdnumcoadministr ra inhibitor ppar-e_ agonist consid differenti diagnosi hematocrit lower anemia uncompl type num diabet patient normal serum creatinin,0,1.0,0.0,2861
+24,corticosteroid cognit impair although patient initi stabil therapi corticosteroid plasma exchang mitoxantron sever cognit impair persist eventu die sequela diseas,0,0.7942,0.2058,1242
+25,silicon myopia investig efficaci safeti stabil correct achiev silicon posterior chamber intraocular len use correct high myopia phakic eye,0,1.0,0.0,1996
+26,methamphetamin hiv-num neurodegener progress understand basal ganglia dysfunct common target methamphetamin abus hiv-num neurodegener,0,1.0,0.0,628
+27,bortezomib escc thu bortezomib could sensit escc trail apoptosi multipl molecular mechan action,0,0.8213,0.17869999999999994,1325
+28,donepezil ad clinic trial donepezil shown improv significantli cognit global function patient mild moder sever ad demonstr excel toler safeti profil,0,1.0,0.0,2323
+29,ethyl acet glycoprotein mous lymphoma present work extract num2 select herb prepar methanol chloroform ethyl acet water effect multidrug resist mdr p-glycoprotein mous lymphoma cell transfect human mdr1 gene human lung alveolar epitheli cell line investig,0,1.0,0.0,2937
+30,perindopril cardiac event european trial reduct cardiac event perindopril stabl coronari arteri diseas europa trial recent report,0,1.0,0.0,548
+31,dihydropyridin hypocalcem order studi role calcium ion pathogenesi vasoconstrict lesion caus acut smoke author studi peripher vascular effect calcium-channel antagonist nifedipin dihydropyridin deriv calcitonin hypocalcem hormon possess vasoact action num2 elderli regular smoker mean age num2num year,0,1.0,0.0,452
+32,mpd pd mechan mpd action patient advanc pd discuss,0,1.0,0.0,1822
+33,bortezomib relaps diseas bortezomib thalidomid lenalidomid improv therapeut armentarium patient refractori relaps diseas often use combin dexamethason chemotherapeut agent,0,1.0,0.0,1794
+34,aspirin bleed aspirin group complic gastrointest symptom mainli epigastr pain no frank bleed observ,0,1.0,0.0,735
+35,cholesterol hypercholesterolemia recent posit effect cholesterol-low drug pravastatin lovastatin npt observ middle-ag male chronic hypercholesterolemia,0,1.0,0.0,836
+36,imiquimod tumor way imiquimod may act stimul notch pathway sbcc tumor cell up-regul protein express notch ligand jagged1,0,1.0,0.0,2378
+37,arsen trioxid apl salvag treatment effect num/num patient num2 relaps apl long-term survivor second line combin treatment arsen trioxid num/num patient stem cell transplant num/num patient,0,1.0,0.0,1623
+38,adriamycin gastric cancer knockdown mdr1 increas sensit adriamycin drug resist gastric cancer cell,0,1.0,0.0,2118
+39,paclitaxel tumor/breast cancer activ rnum5 paclitaxel alon combin studi human breast cancer cell line bt-num3 overexpress her2/neu mda-mb-num3 low her2/neu cell viabil biomark farnesyl hdj-num rho b tumor growth raf/mek/erk surviv pi3k/akt angiogenesi vegf fgf-num mmp-num mmp-num mmp-num endpoint,0,1.0,0.0,2050
+40,calcium hypocalcem order studi role calcium ion pathogenesi vasoconstrict lesion caus acut smoke author studi peripher vascular effect calcium-channel antagonist nifedipin dihydropyridin deriv calcitonin hypocalcem hormon possess vasoact action num2 elderli regular smoker mean age num2num year,0,1.0,0.0,582
+41,nystatin mcd howev case lipid raft inhibitor nystatin beta-mcd disrupt patch,0,1.0,0.0,2192
+42,progesteron bca mono-lay cell cultur model pnum2-wild type estrogen receptor er -depend mcf-num bca cell pnum2-mut er-/progesteron receptor pr her2-regular triple-neg mda-mb-num3 bca expos pgg comprehens investig cellular consequ molecular targets/medi,0,1.0,0.0,1018
+43,sulfasalazine/ssz arthriti methotrex mtx sulfasalazin ssz cyclosporin csa wide use dmard treatment psa safe effect patient activ peripher arthriti although not appear effect axial manifest,0,1.0,0.0,2865
+44,atorvastatin diabet atorvastatin exert benefici vascular effect diabet underli mechan yet elucid,0,1.0,0.0,1510
+45,ammonia encephalopathi efficaci variabl fast postprandi ammonia concentr number-connection-test time mental state grade portosystem encephalopathi index,0,1.0,0.0,2785
+46,atropin colon motil atropin use control demonstr respons select paramet colon motil,0,1.0,0.0,378
+47,leuprolid prostat hyperplasia lutein hormon releas hormon agonist leuprolid investig double-blind random placebo-control studi compris num2 evalu patient moder sever symptom result benign prostat hyperplasia,0,1.0,0.0,1811
+48,oxygen diabet foot ulcer aim studi evalu effect hyperbar oxygen therapi hbot manag chronic diabet foot ulcer,0,1.0,0.0,1893
+49,coumadin rheumat mitral stenosi compar studi coumadin aspirin primari cardioembol stroke thromboembol prevent chronic rheumat mitral stenosi atrial fibril,0,1.0,0.0,809
+50,phosphat ckd/chronic kidney diseas lanthanum carbon sevelam carbon non-calcium-bas phosphat binder use manag hyperphosphataemia patient chronic kidney diseas ckd,0,1.0,0.0,1952
+51,clopidogrel embol event active-w atrial fibril clopidogrel trial irbesartan prevent vascular event studi demonstr warfarin superior platelet therapi clopidogrel plu aspirin prevent af embol event,0,1.0,0.0,2772
+52,catecholamin hyperthermia urinari catecholamin hyperthermia-rel death,0,0.6057,0.3943,2621
+53,irinotecan non-hodgkin 's lymphoma camptothecin deriv irinotecan cpt-num2 shown possess antitumor activ phase ii trial patient carcinoma lung cervix ovari colon rectum patient non-hodgkin 's lymphoma,0,1.0,0.0,3025
+54,sulfasalazine/ssz psa methotrex mtx sulfasalazin ssz cyclosporin csa wide use dmard treatment psa safe effect patient activ peripher arthriti although not appear effect axial manifest,0,1.0,0.0,1939
+55,vitamin e. cataract prior vitamin e supplement may protect vecat particip develop least earli cortic cataract,0,1.0,0.0,1356
+56,sodium bicarbon death patient random receiv sodium bicarbon vs sodium chlorid rate death dialysi myocardi infarct cerebrovascular event not differ significantli num2 day num vs num num vs num num vs num num vs num respect num2 day num month num vs num num vs num num vs num num vs num respect p .num2,0,1.0,0.0,2997
+57,lovastatin hypercholesterolemia recent posit effect cholesterol-low drug pravastatin lovastatin npt observ middle-ag male chronic hypercholesterolemia,0,1.0,0.0,791
+58,num-mercaptopurin inflammatori bowel diseas increas dose requir num-mercaptopurin azathioprin inflammatori bowel diseas patient six year younger,0,1.0,0.0,386
+59,cortisol pain aural canal core skin surfac num2 site temperatur oxygen consumpt pain visual analogu score concentr epinephrin norepinephrin glucos cortisol lactat free fatti acid plasma measur epidur blockad num2 min epidur blockad end surgeri num h surgeri,0,1.0,0.0,69
+60,methadon pain increas risk death observ patient receiv methadon retrospect cohort studi even low dose support recommend not drug first choic noncanc pain,0,0.7974,0.2026,1142
+61,oestrogen menstrual bleed determin effect accept progestogen alon combin oestrogen regul irregular menstrual bleed associ oligo/anovul,0,1.0,0.0,2896
+62,num-mp ibd clinic data collect retrospect ibd patient num year age younger treat num-mp/aza children 's hospit philadelphia,0,0.8059999999999999,0.19400000000000006,1647
+63,eosin cancer uni- multivari variabl analys show lowest recurr rate report studi perform cancer centr studi describ use num2m tc-sulphur colloid also investig use superfici inject techniqu evalu harvest sentinel node haematoxylin-eosin immunohistochemistri stain p numnum2,0,0.7955,0.2045,760
+64,aldosteron renal cardiovascular morbid combin therapi calcium channel antagonist calcium channel blocker ccb inhibitor renin-angiotensin-aldosteron system raa ration approach achiev bp goal provid protect against renal cardiovascular morbid mortal,0,1.0,0.0,2942
+65,dopamin schizophren homovanil acid hva oxid metabolit dopamin shown number studi reflect sever symptom predict respons neurolept treatment schizophren patient,0,0.8017,0.1983000000000001,2347
+66,aza laboratori abnorm no patient discontinu num-mp/aza laboratori abnorm improv spontan dose reduct,0,0.805,0.19499999999999995,2155
+67,olopatadin at twelv patient receiv ketotifen num2 olopatadin num2 at,0,1.0,0.0,855
+68,argentatin a. cancer synthesi argentatin deriv growth inhibitor human cancer cell line vitro,0,1.0,0.0,1162
+69,terfenadin urticaria studi done num2 outpati physic stimulus-induc urticaria num2 patient receiv nimodipin three time day daili dose num3 mg num2 patient treat terfenadin dose num3 mg,0,0.8075,0.1925,2338
+70,paroxetin pruritu therefor identifi underli caus pruritu prime import order develop tailor treatment plan even palli care treatment focus toward symptom not necessarili underli disease.result show palli care patient pruritu differ natur treatment drug paroxetin select serotonin reuptak inhibitor may benefici,0,1.0,0.0,510
+71,platinum bladder cancer phase ii studi vinflunin bladder cancer patient progress first-lin platinum-contain regimen,0,1.0,0.0,2816
+72,lidocain heat stress progress passiv heat stress particip receiv intranas cocain num mg/kg bodi weight placebo lidocain num mg/kg,0,0.8068,0.19320000000000004,1012
+73,calcium pancreat cancer no associ found pancreat cancer risk intak total fat satur fat cholesterol omega-num fatti acid vitamin c. unexpect invers associ calcium intak pancreat cancer risk data,0,0.8119,0.18810000000000004,435
+74,apigenin prostat carcinoma molecular mechan apigenin-induc cell-cycl arrest apoptosi hormon refractori human prostat carcinoma dunum3 cell,0,1.0,0.0,2112
+75,alcohol hepat b. conduct prospect cohort studi liver cancer korea assess independ effect interact smoke alcohol consumpt hepat b risk mortal hepatocellular carcinoma,0,1.0,0.0,917
+76,creatinin atrial fibril use heparin-co circuit reduc mean length stay hospit num +/- num num +/- num day p numnum3 postop ventil time num +/- num num +/- num h p numnum3 blood loss num h post surgeri num3 +/- num3 num3 +/- num3 ml p numnum3 individu periop chang haemoglobin loss p numnum3 leukocyt count p numnum3 creatinin elev p numnum3 proport patient expos allogen blood transfus num2num vs num2num p numnum3 postop coagul disturb num vs num p numnum3 postop deviat normal postop cours num2num vs num2num p numnum3 neurolog deviat num vs num p numnum3 atrial fibril num2num vs num2num p numnum3,0,1.0,0.0,2218
+77,prostaglandin e num breast cancer apoptosi induc num-hpr cox-num inhibitor combin although unaffect anti-her2/neu antibodi revers cox-num product prostaglandin e num indic cox-num major mechan her2/neu suppress num-hpr apoptosi breast cancer cell,0,1.0,0.0,2077
+78,sirolimu hcv review num4 liver recipi num4 num4 identifi cohort hcv recipi expos sirolimu primari immunosuppress srl cohort hcv control group recipi never receiv sirolimu,0,1.0,0.0,1875
+79,eicosanoid inflamm aim studi determin quantiti produc mediat inflamm cytokin eicosanoid carotid endarterectomi cea factor ischem damag brain,0,0.6004,0.3996,1457
+80,cephalosporin tubular marker protein order assess nephrotox potenti antibiot variou aminoglycosid cephalosporin test potenc alter excret tubular marker protein brush border antigen chang normal pattern serumproteinuria analyz sd polyacrylamidgel gradient electrophoresi,0,0.7959,0.20409999999999995,1853
+81,cisplatin tumour cisplatin remain princip chemotherapi agent treatment mani solid tumour,0,1.0,0.0,146
+82,methotrexate/mtx acut lymphoblast leukemia/al methotrex mtx import compon therapi pediatr acut lymphoblast leukemia,0,1.0,0.0,800
+83,rifampicin tuberculosi rifampicin resist risk factor poor outcom tuberculosi,0,0.8181,0.18189999999999995,963
+84,num-deoxyglucos stomach cancer/colon cancer human colon cancer ht-num2 fibrosarcoma htnum4 stomach cancer mknnum2 cell cultur absenc glucos presenc glucos upr-induc chemic stressor n-glycosyl inhibitor tunicamycin calcium ionophor anum5 hypoglycemia-mimick agent num-deoxyglucos 2dg,0,1.0,0.0,789
+85,morphin postop pain compar effect iv acetaminophen oral ibuprofen respect postop pain control morphin requir patient receiv morphin patient-control iv analgesia pcia cesarean deliveri,0,1.0,0.0,1702
+86,clopidogrel stemi long-term cost-effect clopidogrel stemi patient,0,1.0,0.0,1127
+87,gadolinium ms. four double-blind trial relapsing-remit ms demonstr ivig may reduc relaps rate progress number gadolinium-enhanc lesion,0,1.0,0.0,1807
+88,sorafenib papillari thyroid carcinoma success use sorafenib treat pediatr papillari thyroid carcinoma,0,1.0,0.0,140
+89,propofol myocardi injuri specif hypothes ripc isofluran anesthesia attenu myocardi injuri patient undergo coronari arteri bypass graft cabg surgeri effect may differ propofol anesthesia,0,1.0,0.0,485
+90,cadmium hypertens addit blood lead mercuri cadmium covari not affect associ blood mn preval hypertens,0,1.0,0.0,2454
+91,aspirin atrial fibril compar studi efficaci coumadin aspirin primari cardioembol stroke prevent chronic rheumat heart diseas mitral stenosi atrial fibril conduct siriraj hospit mahidol univers bangkok thailand,0,1.0,0.0,2936
+92,testosteron obes known bmi invers proport serum total testosteron concentr low serum shbg level obes contribut low serum total testosteron,0,1.0,0.0,448
+93,carvedilol ad mous present evid chronic oral administr carvedilol nonselect e_-adrenerg receptor blocker significantli attenu brain oligomer e_-amyloid content cognit deterior num independ ad mous model,0,1.0,0.0,3061
+94,methadon hepat c. low risk hepat c seroconvers methadon mainten treatment,0,1.0,0.0,308
+95,theophyllin asthmat nineteen asthmat subject given num3 mg sustained-releas theophyllin prepar twice daili num week,0,1.0,0.0,1808
+96,vancomycin rp vitro antistaphylococc activ rp num5 new streptogramin compar vancomycin teicoplanin against staphylococcu aureu rp num5 activ agent against coagulase-neg staphylococci,0,1.0,0.0,503
+97,tzd diabet furthermor incid anemia end reach num group tzd num2 group acei/arb/tzdnumcoadministr ra inhibitor ppar-e_ agonist consid differenti diagnosi hematocrit lower anemia uncompl type num diabet patient normal serum creatinin,0,1.0,0.0,277
+98,phenytoin pht pharmacoresist epilept patient may ascrib least two not mutual exclus mechan pharmacokinet mechan decreas sensit avail target antiepilept drug a i.e. carbamazepin phenytoin cbz pht,0,1.0,0.0,2384
+99,ozon t2dm/type num diabet mellitu examin whether short-term exposur air pollut fine particl ozon heat result perturb arteri blood pressur bp person type num diabet mellitu t2dm,0,1.0,0.0,332
+100,indomethacin respiratori distress syndrom antenat indomethacin not associ intraventricular hemorrhag patent ductu arteriosu respiratori distress syndrom bronchopulmonari dysplasia mortal,0,1.0,0.0,2670
+101,testosteron obes review describ relationship low serum testosteron concentr ed obes patient metabol syndrom type num diabet mellitu,0,1.0,0.0,2436
+102,sodium nitroprussid hemolysi cardiac surgeri may increas risk cyanid toxic hemolysi cardiopulmonari bypass cpb may catalyz releas free cyanid sodium nitroprussid,0,1.0,0.0,815
+103,alcohol alcohol abus patient secondari rmr like alcohol abus p numnum2 hiv-coinfect p numnum2,0,1.0,0.0,845
+104,progesteron tumour estrogen progesteron receptor er pr immunocytochem analys mammari tumour cell obtain fine needl sampl num2 patient,0,1.0,0.0,2374
+105,heparin harp harp found differ effect neutral anticoagul activ mimet heparan sulphat otrnum4 heparin purifi system human plasma,0,1.0,0.0,2070
+106,fatti acid hyperemia endotheli function measur reactiv hyperemia use strain-gaug plethysmographi compar serum level fatti acid metabolit,0,1.0,0.0,930
+107,calyculin a. breast cancer revers phase phosphoprotein array analysi reveal increas phosphoryl num out num2 ser/thr phosphosit indic select inhibit phosphatas calyculin a. calyculin treatment induc cell cycl arrest mda-mb-num3 mcf-num breast cancer cell,0,0.7875,0.2125,354
+108,glucos ovarian cancer show epitheli ovarian cancer cell highli sensit glucose-deprivation-induc cell death like resveratrol glucos depriv induc caspase-independ cell death hallmark autophagi,0,0.7981,0.2019,1425
+109,acetazolamid cataract studi evalu effect acetazolamid latanoprost travoprost bimatoprost brimonidin brinzolamid timolol pain phacoemulsif cataract surgeri,0,1.0,0.0,688
+110,azt infect interestingli surviv prolong greater treatment start five two year infect no strike increas surviv time dose azt inhibit num2 hiv prolifer use instead lower one induc num2 inhibit,0,1.0,0.0,2114
+111,pioglitazon type object prevent programm studi whether combin pioglitazon lifestyl modif would enhanc efficaci lifestyl modif prevent type num diabet asian indian impair glucos toler,0,1.0,0.0,1861
+112,alfuzosin benign prostat hyperplasia evalu effect alfuzosin num2 mg daili administ num year progress event men lower urinari tract symptoms/benign prostat hyperplasia luts/bph,0,1.0,0.0,1505
+113,atra/all-tran retino acid cytotox pretreat myeloid leukemia line hl-num2 all-tran retino acid atra up-regul aqp9 lead significantli increas arsen uptak as2o3-induc cytotox incub as2o3 might explain synerg atra as2o3,0,0.7897,0.21030000000000004,2143
+114,estrogen tumor/breast cancer previous demonstr inactiv retinoblastoma protein prb famili tumor suppressor caus antiestrogen resist mcf-num cell wide studi model estrogen respons human breast cancer,0,0.6239,0.3761,733
+115,anum5 hypoglycemia human colon cancer ht-num2 fibrosarcoma htnum4 stomach cancer mknnum2 cell cultur absenc glucos presenc glucos upr-induc chemic stressor n-glycosyl inhibitor tunicamycin calcium ionophor anum5 hypoglycemia-mimick agent num-deoxyglucos 2dg,0,1.0,0.0,484
+116,gaba brain ischemia similar alter abund gaba r subunit observ vivo brain ischemia,0,1.0,0.0,58
+117,curcumin ovarian cancer data indic er stress autophagi may play role apoptosi induc curcumin analogu bnum2 epitheli ovarian cancer cell line autophagi inhibit increas curcumin analogue-induc apoptosi induc sever er stress,0,0.7939,0.20609999999999995,337
+118,sunitinib renal cell carcinoma cost-effect evalu sunitinib first-lin target therapi metastat renal cell carcinoma spain,0,1.0,0.0,2297
+119,pregabalin neuropath pain aim studi evalu toler safeti efficaci pregabalin indian patient peripher neuropath pain,0,1.0,0.0,2357
+120,tunicamycin hypoglycemia human colon cancer ht-num2 fibrosarcoma htnum4 stomach cancer mknnum2 cell cultur absenc glucos presenc glucos upr-induc chemic stressor n-glycosyl inhibitor tunicamycin calcium ionophor anum5 hypoglycemia-mimick agent num-deoxyglucos 2dg,0,1.0,0.0,1049
+121,"num num'-oligoadenyl chronic leukemia ten patient hairi cell leukemia hcl seven patient b-cell chronic leukemia bcl studi intracellular num num'-oligoadenyl synthetas num,5oa activ mononuclear cell num h num2 h num2 h pentostatin administr",0,1.0,0.0,695
+122,imatinib cmd imatinib mesyl gleevec small molecul inhibitor abl kit platelet-deriv growth factor receptor pdgfr tyrosin kinas report effect treatment hypereosinophil syndrom he rare eosinophilia-associ chronic myeloid disord eos-cmd character num num2 qnum2 pnum2 cytogenet abnorm,0,1.0,0.0,863
+123,resveratrol ovarian cancer show epitheli ovarian cancer cell highli sensit glucose-deprivation-induc cell death like resveratrol glucos depriv induc caspase-independ cell death hallmark autophagi,0,0.7921,0.2079,315
+124,nitroglycerin myocardi infarct current guidelin call nitroglycerin prescrib patient coronari heart diseas includ stabl angina recov acut coronari syndrom myocardi infarct,0,1.0,0.0,2064
+125,aspirin atrial fibril active-w atrial fibril clopidogrel trial irbesartan prevent vascular event studi demonstr warfarin superior platelet therapi clopidogrel plu aspirin prevent af embol event,0,0.8140000000000001,0.18599999999999994,2565
+126,num-fluorouracil toxic feasibl toxic local respons rate intra-arteri chemotherapi num-fluorouracil epirubicin mitomycin patient num2 year local advanc breast cancer evalu,0,0.7948,0.20520000000000005,1301
+127,capecitabin rectal cancer patient t3/t4 node posit rectal cancer treat capecitabin num num3 mg/m num twice daili bid day num-num2 irinotecan num3 mg/m num day num everi num2 day num cycl follow capecitabin num3 mg/m num bid day num-num per week concurr radiotherapi num2num gy num2 fraction,0,1.0,0.0,2537
+128,camp asthma varieti drug known act via increas intracellular camp use treatment asthma,0,1.0,0.0,1758
+129,quinin poison case ocular toxic vasospasm secondari quinin poison describ,0,0.6163,0.3837,648
+130,curcumin gastric carcinoma curcumin biolog activ compound rhizom curcuma longa could inhibit cell growth induc apoptosi gastric carcinoma,0,0.6214,0.3786000000000001,2620
+131,batimastat cancer batimastat bb-num2 first inhibitor class enter clinic trial cancer patient,0,1.0,0.0,105
+132,glucos glucos intoler furthermor drug link develop glucos intoler thu import monitor bodyweight fast blood glucos frequent basi,0,1.0,0.0,795
+133,met5 enkephalin colon cancer opioid growth factor met5 enkephalin prevent incid retard growth human colon cancer,0,1.0,0.0,329
+134,olmesartan medoxomil hypertens efficaci toler olmesartan medoxomil combin amlodipin patient moder sever hypertens amlodipin monotherapi random double-blind parallel-group multicentr studi,0,1.0,0.0,2339
+135,ramipril adpkd forty-six hypertens adpkd patient random either ramipril n num2 metoprolol n num2,0,1.0,0.0,1951
+136,thiobarbitur asthmat asthmat patient num2 num2 num2 mean num2 confid interv receiv thiobarbitur num2 num num2 receiv oxybarbitur none num num2 receiv propofol wheez intub,0,1.0,0.0,658
+137,nickel hyperlipidemia accord multivari analysi signific predictor cr-isr refer vessel diamet p=.num4 follow nickel-posit p=.num4 hyperlipidemia p=.num4,0,1.0,0.0,2289
+138,polyethylen glycol ada deficiency/adenosin deaminase/ada polyethylen glycol-conjug adenosin deaminas ada therapi provid temporari immun reconstitut child delayed-onset ada defici,0,1.0,0.0,1877
+139,enzalutamid ar resist enzalutamid abirateron howev mark return ar signal indic remark addict prostat cancer cell ar pathway,0,0.8037,0.19630000000000009,2779
+140,simvastatin pad pad patient major coronari event occur fewer patient atorvastatin group num2num simvastatin group num2num differ not reach statist signific,0,1.0,0.0,2502
+141,vancomycin visa mutant display reduc vancomycin daptomycin suscept phenotyp alter eg thicker cell wall abnorm autolysi typic vivo visa mutant,0,1.0,0.0,578
+142,naproxen rheumatoid arthriti addit effect combin naproxen paracetamol rheumatoid arthriti,0,0.626,0.374,2258
+143,sumatriptan migrain sinc vasoconstrictor respons sumatriptan reproduc outsid migrain attack action appear direct vascular effect not indirectli mediat via neural mechan,0,1.0,0.0,404
+144,no cf median j no br significantli lower cf adult healthi control numnum2 nl/ rang numnum2-numnum2 vs. numnum2 nl/ numnum2-numnum2 p numnum3 median c alv similar group num ppb num-num vs. num num-num,0,1.0,0.0,2574
+145,loratadin chamber regul humid particip evalu cae chamber regul humid temperatur airflow visual task baselin take num2 mg either loratadin cetirizin hydrochlorid daili num day,0,0.8092,0.1908,2822
+146,efv/efavirenz death analyz progress death caus aid death aids/death compar efavirenz efv nevirapin nvp nelfinavir idinavir ritonavir rtv rtv-boost proteas inhibitor pi saquinavir abacavir,0,1.0,0.0,2412
+147,corticosteroid eosinophil infiltr myocardi biopsi reveal eosinophil infiltr degranul cardiogen shock revers prompt institut corticosteroid therapi,0,1.0,0.0,2570
+148,pravastatin non-insulin-depend diabet mellitus/niddm multin num2-week random double-blind placebo-control studi evalu efficaci safeti low-dos pravastatin num3 patient non-insulin-depend diabet mellitu niddm hypercholesterolemia serum total cholesterol concentr num-num mmol/l num3 num3 mg/dl,0,1.0,0.0,1697
+149,levothyroxin hypothyroid effect levothyroxin total lipid profil assess analyt capillari isotachophoresi patient hypothyroid,0,1.0,0.0,1645
+150,num-fluorouracil colorect cancer oxaliplatin weekli bolu num-fluorouracil leucovorin pretreat advanc colorect cancer patient phase ii studi,0,1.0,0.0,254
+151,methylprednisolon leukem differenti contrast methylprednisolon no effect phosphatas inhibitor num num -induc leukem differenti,0,1.0,0.0,2385
+152,nitric oxid toxic addit low toxic gossypol thioderiv revers nitric oxid donor physiolog media,0,0.7969,0.20309999999999995,1762
+153,aspirin respiratori diseas studi aim identifi prognost factor aspirin-exacerb respiratori diseas compar clinic genet data clinic cours,0,0.6079,0.3921,2153
+154,otrnum4 harp harp shown compet antithrombin thrombin bind heparin otrnum4 respect,0,1.0,0.0,2081
+155,ramosetron corticotropin releas factor/crf ramosetron num num3 microg/kg pnumo found significantli suppress abnorm defec induc conditioned-fear stress cf restraint stress corticotropin releas factor crf num-ht rat mice effect potent alosetron cilansetron loperamid,0,0.6029,0.3971,2415
+156,alcohol viral hepat includ requir improv enzymolog screen despit introduct test hepat c imbal popular unexplain chronic aminotransferas elev effort solv inher problem inadequ attempt use metabol chang hepatocyt improv diagnosi prognosi pathophysiolog understand viral liver diseas remark investig num'-num'-oligoadenyl synthetas better control interferon therapi chronic viral hepat use enzym marker etiolog particularli detect alcohol induc liver diseas continu prefer aminotransferas scenario although ratio aspart aminotransferas alanin aminotransferas mitochondri aspart aminotransferas total aspart aminotransferas activ larg depend sever intralobular local damag stage liver diseas,0,1.0,0.0,2650
+157,glucos glucos intoler three criteria metabol syndrom high triglycerid level glucos intoler obes fulfil three subject numnum2,0,1.0,0.0,2876
+158,gaba asthma critic role solut carrier famili num neurotransmitt transport betaine/gaba member num2 slc6anum2 gene gabaerg transmiss associ mucu product asthma make candid gene aia associ studi,0,0.7982,0.2018,88
+159,glutathion head neck squamou carcinoma chemosensit head neck squamou carcinoma cell line not primarili correl glutathion level modifi glutathion deplet,0,1.0,0.0,713
+160,thiazid angina calcium channel blocker ccb attract altern thiazid patient uncontrol intoler thiazid specif indic agent eg angina sever diastol dysfunct,0,0.7992,0.2008,2846
+161,csa/cyclosporin arthriti methotrex mtx sulfasalazin ssz cyclosporin csa wide use dmard treatment psa safe effect patient activ peripher arthriti although not appear effect axial manifest,0,1.0,0.0,2604
+162,sorbitol lactic acidosi propos mechan type b lactic acidosi relat metabol sorbitol,0,0.6131,0.3869,2933
+163,bupivacain pain bupivacain morphin unlik entonox produc lower pain score associ drain remov,0,0.7944,0.2056,2582
+164,etomid depress retrospect comparison effect propofol etomid stimulu variabl efficaci electroconvuls therapi depress inpati,0,1.0,0.0,812
+165,aspirin ischem stroke post-hoc analysi num random ischem stroke trial aspirin treatment failur not found associ increas risk recurr stroke death,0,1.0,0.0,1748
+166,dichlorphenamide/dcp hypopp/hypokalem period paralysi one studi dichlorphenamid dcp vs placebo test two group particip num2 hypokalem period paralysi hypopp num2 hyperkalem period paralysi hyperpp base clinic criteria,0,1.0,0.0,97
+167,pge2/prostaglandin e2 tumor necrosi factor-a/tnfa plasma concentr interleukin-1b il-1b thromboxan b2 txb2 prostaglandin e2 pge2 tumor necrosi factor-a tnfa measur enzyme-link immunosorb assay elisa techniqu,0,1.0,0.0,839
+168,rivastigmin alzheim 's diseas drug use treat alzheim 's diseas includ acetyl cholinesteras inhibitor achi donepezil rivastigmin galantamin nmda receptor antagonist memantin,0,1.0,0.0,366
+169,pimecrolimu atop dermatitis/ad previou studi suggest earli intervent pimecrolimu cream num first sign and/or symptom relaps atop dermat ad follow remiss may prevent occurr sever flare therefor reduc corticosteroid exposur long term,0,1.0,0.0,2927
+170,hva drug action howev administr dopamin postsynapt antagonist expect increas synapt dopamin avail therebi increas hva concentr accord tradit model drug action,0,1.0,0.0,1053
+171,estrogen breast cancer target vascular endotheli growth factor vegf estrogen receptor er signal pathway concomitantli may provid enhanc therapeut benefit er-posit breast cancer,0,1.0,0.0,343
+172,fluoxetin postnat depress women postnat depress effect treat fluoxetin effect cours cognitive-behaviour counsel short-term,0,1.0,0.0,128
+173,clonidin pmdd/premenstru dysphor disord women meet strict criteria premenstru dysphor disord pmdd examin whether clonidin alpha2-adrenerg receptor ar agonist would differ effect sexual abus versu non-abus pmdd women measur autonom nervou system function,0,1.0,0.0,3029
+174,capsaicin thermal hyperalgesia investig effect guanethidin pretreat thermal hyperalgesia experiment site sensit heat topic applic num capsaicin,0,0.8179,0.18210000000000004,1091
+175,borrelidin angiogenesi use improv model confirm tnp-num3 well-known inhibitor borrelidin antibiot streptomyc rochei significantli inhibit widr cell-induc angiogenesi,0,1.0,0.0,2799
+176,pravastatin hyperlipidemia sinc hyperlipidemia not improv pravastatin atorvastatin niceritrol sinc level thyroid-stimul hormon tsh free t4 num3 iu/ml num ng/dl respect patient diagnos secondari hyperlipidemia hypothyroid,0,0.8245,0.1755,2101
+177,capecitabin tumor phase studi conduct primarili determin maximum toler dose mtd tesetaxel novel oral activ semisynthet microtubul inhibitor taxan class administ oral capecitabin patient advanc solid tumor,0,1.0,0.0,2419
+178,imatinib gist/gastrointestin stromal tumour although tyrosin kinas inhibitor imatinib shown activ agent patient gastrointestin stromal tumour gist complet remiss almost never seen patient final experi diseas progress cours treatment,0,0.6029,0.3971,687
+179,trichostatin a/tsa inflamm examin effect histon deacetylas inhibitor trichostatin tsa behavior macrophag subconjunctiv fibroblast vitro ocular surfac inflamm scar vivo use alkali burn wound heal model,0,0.7977,0.20230000000000006,55
+180,amiodaron af short-term studi dronedaron less effect amiodaron decreas af recurr better safeti profil specif regard thyroid neurolog event lack interact oral anticoagul,0,1.0,0.0,1521
+181,cisplatin small cell lung cancer present studi aim determin whether erk1/num akt pathway contribut cisplatin resist human small cell lung cancer anum3 cell,0,1.0,0.0,3081
+182,sunum4 tripl combin tripl combin use low-tox drug exposur pemetrex sunum4 result greater respons treatment alon combin two modal test endotheli tumor cell model,0,1.0,0.0,513
+183,poly-sno-hsa tumor observ pegyl enhanc stabil poly-sno-hsa vitro vivo dimer poly-sno-hsa enhanc antitumor activ via effici deliveri no colon num2 tumor-bear mice,0,1.0,0.0,2254
+184,mitomycin c. tumor reductas enzym express across nation cancer institut tumor cell line panel correl sensit mitomycin c eo9,0,1.0,0.0,2336
+185,spiperon schizophrenia 3h-spiperon bind lymphocyt neuroleptic-naive-schizophrenia effect neurolept treatment,0,1.0,0.0,2889
+186,clozapin blood glucos accumul data develop glucos intoler adult receiv clozapin closer monitor bodyweight fast blood glucos imper,0,0.8041,0.1959,2379
+187,saquinavir death analyz progress death caus aid death aids/death compar efavirenz efv nevirapin nvp nelfinavir idinavir ritonavir rtv rtv-boost proteas inhibitor pi saquinavir abacavir,0,1.0,0.0,2086
+188,paliperidon schizophrenia paliperidon er potenti offer advantag parent compound second gener agent may aid ensur complianc among person schizophrenia,0,1.0,0.0,3072
+189,telmisartan cardiovascular diseas present studi suggest due delta lock structur telmisartan may superior arb halt cardiovascular diseas patient hypertens,0,1.0,0.0,1383
+190,terazosin hypertens total num2 num3 patient hypertens evalu num4 primari commun care facil num4 patient not treat previous hypertens num4 switch terazosin anoth antihypertens agent num4 receiv terazosin addit agent not control hypertens,0,1.0,0.0,54
+191,glucos type rosiglitazon significantli increas glucos uptak wild-typ podocyt associ transloc glut1 plasma membran,0,1.0,0.0,3069
+192,capecitabin toxic design studi local advanc rectal cancer determin patholog respons toxic disease-fre surviv df induct capecitabin plu irinotecan follow capecitabine-bas chemoradiotherapi crt analyz gene express enzym involv metabol capecitabin irinotecan associ respons toxic,0,1.0,0.0,2826
+193,sugammadex major depress rocuronium-sugammadex reduc myalgia headach electroconvuls therapi patient major depress,0,1.0,0.0,576
+194,yohimbin ptsd metabol tend decreas patient ptsd increas healthi subject follow administr yohimbin,0,1.0,0.0,1223
+195,glucos tumor/tumor glucos depriv featur poorli vascular solid tumor activ unfold protein respons upr stress-sign pathway tumor cell,0,0.8299,0.17010000000000006,938
+196,aldosteron wast infection-trigg life-threaten salt-loss hyperkalaemia develop two male infant wast inappropri low plasma aldosteron concentr elev plasma renin activ,0,0.8205,0.1795,2974
+197,capecitabin tumour/breast cancer effect capecitabin vinorelbin cell prolifer metabol cox2 pnum2 express breast cancer cell line solid tumour tissu,0,0.6017,0.3983,2222
+198,cyclosporin ibd four case nhl ibd cohort sir num2num num2 ci num-num2 p=numnum4 receiv immunosuppress therapi azathioprin n=num methotrex n=num methotrex cyclosporin n=num,0,0.8062,0.1938,2528
+199,ketanserin contract ketanserin num2-num4 nm antagon part num-ht-induc contract,0,0.8188,0.18120000000000008,2041
+200,tryptophan bipolar affect disord clinic neurochem effect acut tryptophan deplet unaffect rel patient bipolar affect disord,0,1.0,0.0,1378
+201,triiodothyronin major depress disord open studi triiodothyronin augment select serotonin reuptak inhibitor treatment-resist major depress disord,0,1.0,0.0,2256
+202,oestrogen menstrual bleed randomis control trial progestogen via rout alon combin oestrogen treatment irregular menstrual bleed associ oligo/anovul,0,1.0,0.0,2734
+203,glucos impair glucos toler pioglitazon not enhanc effect lifestyl modif prevent convers impair glucos toler diabet asian indian result indian diabet prevent programme-num idpp-num,0,1.0,0.0,1648
+204,num-ht contract ring intact endothelium num-ht1-like-select agonist sumatriptan caus small contract -log ecnum2 num intrins activ numnum2 respect num-ht resist blockad num4 nm ketanserin antagon num3 nm methiothepin,0,1.0,0.0,1422
+205,dapson angioedema num2-year-old woman num yr histori chronic recurr urticari vascul angioedema refractori convent treatment includ glucocorticosteroid h1 h2 blocker nonsteroid antiinflammatori agent methotrex hydroxychloroquin dapson azathioprin intraven gamma globulin plasma exchang success treat interferon alpha 2a,0,1.0,0.0,2475
+206,epirubicin hcc/hepatocellular carcinoma pharmacokinet clinic activ epirubicin investig num2 patient hepatocellular carcinoma hcc receiv epirubicin num2 mg/m2 drug given intraven num patient via hepat arteri num patient num also underw embolis,0,1.0,0.0,2171
+207,feiba thrombot recombin factor viia rfviia increasingli use altern feiba howev thrombot safeti profil rfviia remain incomplet character,0,1.0,0.0,353
+208,dexamethason tumor stimul primari human corneal epitheli cell keratocyt retin endotheli cell num num2 ng/ml interleukin 1e_ il-1e_ result signific increas numer inflammatori cytokin includ il-num il-num tumor necrosi factor e tnf-e dexamethason abl significantli inhibit effect,0,1.0,0.0,507
+209,lidocain pain fibromyalgia impact questionnair fiq health assess questionnair visual analog scale va pain appli first lidocain infus immedi fifth infus num2 day fifth infus,0,0.6101,0.3899,1336
+210,fluconazol infect clinic trial report support use fluconazol treatment candidiasi particularli oropharyng esophag infect immunocompromis host,0,1.0,0.0,2812
+211,acebutolol lupu erythematosu although first report acebutolol-induc scle awar occurr avoid acebutolol recommend patient stigmata lupu erythematosu,0,0.8011,0.1989,2257
+212,thiopent asthmat wherea thiopent contract human isol bronchi propofol etomid reduc histamine-induc contract human isol airway smooth muscl either not sensit passiv sensit asthmat serum,0,1.0,0.0,2026
+213,glucos oral glucos toler fast glucos insulin lipid lipoprotein profil oral glucos toler insulin secret insulin-medi glucos dispos hyperglycem clamp bodi composit dual energi x-ray absorptiometri determin lopinavir/ritonavir administr,0,0.799,0.201,1981
+214,yohimbin ptsd signific differ brain metabol respons yohimbin patient ptsd compar healthi subject prefront tempor pariet orbitofront cortex,0,1.0,0.0,534
+215,metformin diabet metformin use among individu risk type num diabet,0,1.0,0.0,1734
+216,ribavirin diabet mellitu perform proteom analysi liver specimen num2-year-old woman affect hepat c genotyp 1a alcohol diabet mellitu type num antivir treatment pegyl interferon alpha 2b ribavirin,0,1.0,0.0,2088
+217,docetaxel hypox given doxorubicin docetaxel th-num3 complement enhanc anticanc effect perivascular hypox region also increas toxic,0,1.0,0.0,1456
+218,methamphetamin cannabi depend studi evalu role nac cocain depend three studi cannabi depend two studi nicotin depend two studi methamphetamin addict one studi patholog gambl one studi,0,1.0,0.0,1503
+219,num num-dihydroxybenzaldehyd cancer concentr num3 microm num num-dihydroxybenzaldehyd caus num2 growth inhibit human cancer cell unum3,0,1.0,0.0,2360
+220,gemcitabin refractori hodgkin 's diseas gemcitabin treatment relaps refractori hodgkin 's diseas,0,1.0,0.0,1372
+221,tam/tamoxifen breast cancer/malign neoplasm recent studi shown antiestrogen tamoxifen tam use treatment malign neoplasm breast cancer,0,1.0,0.0,2963
+222,dihydrotestosterone/dht ligand-bind domain/lbd prostat cancer pca therapi typic involv administr classic antiandrogen competit inhibitor androgen receptor ar ligand dihydrotestosteron dht testosteron te ligand-bind pocket lbp ligand-bind domain lbd ar,0,1.0,0.0,2871
+223,titanium perin hernia repair describ applic titanium mesh perin hernia repair,0,1.0,0.0,1997
+224,paliperidon palmit hallucin studi suggest risperidon long-act inject paliperidon palmit long-act inject may use treatment dd patient specif nonpromin hallucin,0,1.0,0.0,2665
+225,corticosteroid cataract use intranas corticosteroid not associ increas risk cataract studi popul,0,1.0,0.0,2209
+226,diltiazem hypertens relat rsnum5 statu num-month blood pressur reduct risk cardiovascular event num4 hypertens patient dbp num3 mmhg nordic diltiazem studi nordil random either e_-block and/or diuretic-bas treatment diltiazem-bas treatment,0,1.0,0.0,1083
+227,sphingosin growth arrest inhibitor display k valu submicromolar rang sphingosin kinas cultur vascular smooth muscl cell decreas s1p level initi growth arrest,0,1.0,0.0,519
+228,sfa lp lp lipopeptid contamin wide use reagent fatty-acid-fre bsa explain previous report stimul tlr2 tlr4 sfa,0,0.7874,0.2126,608
+229,fatti acid hcv infect real time data confirm vivo human hcv infect pathway relat fatti acid glucos metabol free radic scaveng inhibit,0,0.7917,0.20830000000000004,2445
+230,arginin vasopressin ocd abnorm csf arginin vasopressin corticotropin-releas hormon oxytocin somatostatin level report ocd,0,0.8103,0.1897,772
+231,nicardipin hypertens effect calcium-entri blocker nicardipin intraren hemodynam essenti hypertens,0,0.7898,0.21020000000000005,2287
+232,testosteron metabol syndrom characterist low serum testosteron concentr observ obes men also present men metabol syndrom type num diabet mellitu,0,1.0,0.0,732
+233,piperacillin melioidosi role piperacillin/ tazobactam melioidosi remain undefin,0,1.0,0.0,1038
+234,oxygen pain aural canal core skin surfac num2 site temperatur oxygen consumpt pain visual analogu score concentr epinephrin norepinephrin glucos cortisol lactat free fatti acid plasma measur epidur blockad num2 min epidur blockad end surgeri num h surgeri,0,1.0,0.0,1529
+235,mannitol lactic acidosi report case hyperglycaemia lactic acidosi complic turp syndrom caus massiv absorpt approxim num2 litr sorbitol- mannitol irrig solut,0,0.8183,0.1817,2911
+236,mangafodipir hepat lesion compar mangafodipir-enhanc magnet reson mr superparamagnet iron oxid spio -enhanc imag abil detect character focal hepat lesion,0,1.0,0.0,2328
+237,thalidomid better toxic lenalidomid better toxic profil thalidomid,0,1.0,0.0,928
+238,ibandron skelet complic intraven ibandron reduc incid skelet complic patient breast cancer bone metastas,0,1.0,0.0,2463
+239,isofluran ripc ripc isofluran anesthesia n num2 decreas area ctni time curv ctni auc -num2 num3 num3 ng/ml num2 h vs. num3 num3 ng/ml num2 h p numnum3 peak num num ng/ml vs. num2num num p numnum3 serial p numnum3 postop ctni compar isofluran alon n num2,0,0.7865,0.2135,139
+240,ribavirin hiv/hepat c virus-coinfect treatment pegyl interferon plu ribavirin safe effect hiv/hepat c virus-coinfect patient,0,1.0,0.0,2307
+241,pimecrolimu ad num2-week random control studi conduct num3 patient age or=num2 year histori mild moder ad clear/almost clear diseas random pimecrolimu cream num n=num3 match vehicl cream n=num3,0,0.7894,0.2106,3084
+242,clopidogrel stemi addit clopidogrel aspirin given num year set stemi highli cost-effect strategi,0,1.0,0.0,417
+243,glucos diabet mellitu type studi closed-loop system control plasma glucos level patient diabet mellitu type num propos,0,1.0,0.0,1164
+244,aminoglycosides/aminoglycosid tubular marker protein excret tubular marker protein enhanc combin administr cephalosporin aminoglycosid mainli due aminoglycosid compon,0,0.7975,0.2025,176
+245,procaterol asthmat effect procaterol beta num-adrenoceptor agonist skin wheal respons caus inflammatori mediat asthmat children,0,1.0,0.0,796
+246,potassium colorect cancer dietari intak retinol vitamin thiamin riboflavin vitamin b6 folat vitamin bnum2 vitamin calcium iron magnesium potassium n num fatti acid n num fatti acid ratio n num n num fatti acid estim associ colorect cancer examin use condit logist regress model adjust exact age height weight energi intak alcohol intak fiber intak smoke educ social class physic activ,0,0.8079999999999999,0.1920000000000001,1653
+247,paracetamol analgesia twenti per cent diclofenac group num2 paracetamol group requir rescu analgesia not statist signific,0,1.0,0.0,2233
+248,bile acid barrett 's esophagu aim studi assess express bile acid receptor esophagu normal esophag barrett 's esophagu adenocarcinoma investig possibl function,0,1.0,0.0,1969
+249,sodium chlorid death patient random receiv sodium bicarbon vs sodium chlorid rate death dialysi myocardi infarct cerebrovascular event not differ significantli num2 day num vs num num vs num num vs num num vs num respect num2 day num month num vs num num vs num num vs num num vs num respect p .num2,0,0.8042,0.1958,1707
+250,desmopressin nocturia open in-pati increment safeti efficaci studi desmopressin women multipl sclerosi nocturia,0,0.8042,0.1958,2246
+251,amphotericin b. viscer leishmaniasi liposom amphotericin b effect safe altern treatment viscer leishmaniasi indian subcontin,0,1.0,0.0,223
+252,arb type furthermor incid anemia end reach num group tzd num2 group acei/arb/tzdnumcoadministr ra inhibitor ppar-e_ agonist consid differenti diagnosi hematocrit lower anemia uncompl type num diabet patient normal serum creatinin,0,1.0,0.0,295
+253,sulfamethoxazol wegen 's granulomatosi long-term sulfamethoxazole-trimethoprim wegen 's granulomatosi,0,0.8065,0.1935,3
+254,artemisinin cardiotox contrast artemisinin not reveal cardiotox,0,1.0,0.0,1971
+255,aspirin ischem stroke object determin aspirin treatment failur predict recurr ischem stroke and/or death,0,1.0,0.0,607
+256,alcohol prostat cancer alcohol drink unrel prostat cancer risk,0,0.8158,0.18420000000000009,878
+257,indomethacin coma includ 'forc hyperventil paco2 num2 mmhg barbitur coma experiment protocol tri buffer indomethacin induc hypothermia,0,1.0,0.0,879
+258,glucos stomach cancer/colon cancer human colon cancer ht-num2 fibrosarcoma htnum4 stomach cancer mknnum2 cell cultur absenc glucos presenc glucos upr-induc chemic stressor n-glycosyl inhibitor tunicamycin calcium ionophor anum5 hypoglycemia-mimick agent num-deoxyglucos 2dg,0,1.0,0.0,1215
+259,lopinavir/ritonavir oral glucos toler fast glucos insulin lipid lipoprotein profil oral glucos toler insulin secret insulin-medi glucos dispos hyperglycem clamp bodi composit dual energi x-ray absorptiometri determin lopinavir/ritonavir administr,0,0.7892,0.2108,428
+260,perindopril arteriosclerosi present studi evalu effect treatment calcium channel blocker amlodipin angiotensin i-convert enzym inhibitor perindopril vascular endotheli function arteriosclerosi patient essenti hypertens alreadi receiv angiotensin receptor blocker monotherapi,0,1.0,0.0,1430
+261,suramin metastat cancer suramin serum insulin-lik growth factor level metastat cancer patient,0,0.8217,0.1783,2718
+262,panton-valentin leukocidin tissu infect studi investig outcom therapi without appropri antibiot among children ca-mrsa skin soft tissu infect ssti analyz outcom manag among children panton-valentin leukocidin pvl -posit strain pvl-neg strain,0,1.0,0.0,466
+263,poly-sno-hsa tumor previous demonstr poly-nitr oxid no conjug human serum albumin poly-sno-hsa potenti dd carrier capabl accumul no tumor,0,0.8024,0.1976,2296
+264,fluticason bronchiectasi cochran airway group rct regist cochran control clinic trial regist search use follow search term bronchiectasi corticosteroid* beclomethason budesonid fluticason triamcinolon flunisolid,0,1.0,0.0,619
+265,zidovudine/zdv hiv-infect babi hiv-infect women randomis birth receiv singl dose nevirapin nvp alon zidovudin zdv twice daili week,0,1.0,0.0,221
+266,sodium bicarbon nephropathi sodium bicarbon vs sodium chlorid prevent contrast medium-induc nephropathi patient undergo coronari angiographi random trial,0,0.8186,0.1814,1343
+267,pioglitazon impair glucos toler pioglitazon not enhanc effect lifestyl modif prevent convers impair glucos toler diabet asian indian result indian diabet prevent programme-num idpp-num,0,1.0,0.0,152
+268,ziprasidon multipl neurocognit domain robust find signific across multipl neurocognit domain adjac snp show evid associ rsnum5 ehf gene p-valu numnum2 num2 -num q-valu numnum3 mediat effect ziprasidon vigil rsnum5 slcnum2a9 p-valu num num2 -num q-valu numnum3 mediat effect olanzapin process speed rsnum5 il1a p-valu numnum2 num2 -num q-valu numnum3 mediat effect olanzapin work memori,0,1.0,0.0,535
+269,oestrogen breast cancer effect transform growth factor beta num oestrogen metabol mcf-num breast cancer cell line,0,0.7983,0.2017,1799
+270,methadon hydrochlorid overdos methadon hydrochlorid may increas risk lethal respiratori depress relat accident overdos life-threaten ventricular arrhythmia,0,0.6184,0.3816000000000001,922
+271,naloxon respiratori depress patient experi opioid-rel toxic associ respiratori depress treat immedi opioid antagonist naloxon close monitor least num2 hour,0,1.0,0.0,515
+272,ascorb acid dermat administr exogen ascorb acid advoc therefor treatment system chromium poison chromium dermat enhanc extracellular reduct chromium vi less bioavail chromium iii,0,1.0,0.0,131
+273,hydroxychloroquin dmard establish dmard sulfasalazin hydroxychloroquin also demonstr efficaci use togeth methotrex,0,1.0,0.0,2692
+274,iron defici iron vitamin defici impact anemia immun system,0,1.0,0.0,367
+275,naltrexon psychiatr disord naltrexon disulfiram patient alcohol depend comorbid psychiatr disord,0,0.8055,0.1945,2716
+276,num-hc tumor data suggest clonal abnorm observ posttranspl best explain clinic relaps tumor ex vivo marrow purg num-hc not like induc clonal chromosom abnorm normal cell,0,1.0,0.0,1141
+277,ketamin analgesia doubl blind cross studi design evalu effect ketamin spinal morphin analgesia termin cancer pain patient,0,0.7963,0.2037,581
+278,mannitol acut stroke mannitol use acut stroke case fatal num2 day num year,0,1.0,0.0,2489
+279,doxycyclin furcat defect regener degre ii furcat defect num doxycyclin hyclat bioabsorb barrier,0,0.6007,0.3993,1225
+280,vitamin d. chronic renal diseas influenc uv irradi vitamin metabol children chronic renal diseas,0,1.0,0.0,2866
+281,cloretazin lymphoma anti prolif activ elaci cp-num4 combin cloretazin vnpnum5m idarubicin gemcitabin irinotecan topotecan human leukemia lymphoma cell,0,1.0,0.0,310
+282,no migrain sinc calcineurin inhibitor known influenc renal metabol no key molecul tension-typ headach migrain interest whether calcineurin inhibitor might chang no metabol hbmec well,0,1.0,0.0,1034
+283,cholesterol diabet aim studi examin effect max epa commerci avail fish oil prepar serum cholesterol lipoprotein apolipoprotein insulin-depend diabet iddm men dosag like accept patient,0,1.0,0.0,2930
+284,clozapin extrapyramid symptoms/ep unlik clozapin receptor interact profil lend toward increas risk extrapyramid symptom ep hyperprolactinaemia,0,0.6191,0.3809,2852
+285,atp primari tumor herein assess role syk-depend tonic bcr surviv signal dlbcl cell line primari tumor evalu efficaci atp-competit inhibitor syk rnum3 vitro,0,1.0,0.0,1519
+286,rasagilin pd rasagilin shown effect monotherapi earli pd adjunct dopaminerg therapi,0,1.0,0.0,1076
+287,busulfan medulloblastoma tumor includ childhood high-grad glioma d-num3 mg d-num3 mg adult high-grad glioma d-num2 mg d-num3 mg medulloblastoma dnum3 med dnum3 med ependymoma dnum3 ep dnum3 ep rhabdomyosarcoma te-num3 well sublin demonstr resist busulfan d-num3 mg br cyclophosphamid te-num3 cr procarbazin d-num3 mg pr melphalan te-num3 mr grow subcutan intracrani athym nude mice,0,1.0,0.0,1533
+288,prostanoid pain brimonidin group exhibit lowest visual analog pain-scal score prostanoid especi bimatoprost group demonstr highest visual analog pain-scal score medianastandard deviat num0a1numnum2 num0a1numnum2 respect,0,0.8106,0.1894,11
+289,fentanyl pain opioid rotat morphin fentanyl may effect allevi delirium pain cancer patient morphine-induc delirium,0,0.8113,0.1887,2902
+290,oxygen aggress contrari might expect result suggest case aggress effort increas oxygen consumpt may detriment,0,1.0,0.0,2353
+291,mangafodipir hepat lesion detect character focal hepat lesion mangafodipir vs. superparamagnet iron oxide-enhanc magnet reson imag,0,1.0,0.0,887
+292,androgen ar/androgen receptor among androgen receptor splice variant ar-v particularli variant num ar-v7 implic resist enzalutamid abirateron preclin studi not target current avail ar-direct drug,0,1.0,0.0,1040
+293,sodium coma taxin taxin b toxic alkaloid taxu block cardiac sodium calcium channel caus nausea vomit abdomin pain cardiac arrhythmia respiratori distress coma seizur death yew poison,0,0.6094,0.3906,1915
+294,cyclosporin toxic although one larg random studi demonstr proven surviv advantag without increas toxic use cyclosporin inconsist result modul rais doubt util overal strategi use drug efflux blocker patient establish pgp overexpress,0,1.0,0.0,2953
+295,thiazid hypertensive/hypertens thiazid diuret remain drug first choic treat hypertens african-american hypertens,0,1.0,0.0,2214
+296,oxygen hypertens review focus vascular action reactiv oxygen speci role oxid stress vascular damag hypertens therapeut potenti modul oxygen radic bioavail hypertens,0,1.0,0.0,1346
+297,pamidron bone pain repeat pamidron infus exert clinic relev analges effect half patient metastat bone pain,0,0.8111,0.1889,1228
+298,methotrexate/mtx arthriti methotrex mtx sulfasalazin ssz cyclosporin csa wide use dmard treatment psa safe effect patient activ peripher arthriti although not appear effect axial manifest,0,1.0,0.0,259
+299,amlodipin hypertens thirty-two patient essenti hypertens treat angiotensin receptor blocker monotherapi random receiv num mg amlodipin n=num2 num mg perindopril n=num2 daili morn num2 week,0,0.8212,0.17879999999999996,3027
+300,metformin acut myocardi infarct chronic pretreat metformin associ reduct no-reflow phenomenon patient diabet mellitu primari angioplasti acut myocardi infarct,0,1.0,0.0,1901
+301,raloxifen inflammatori result show tamoxifen raloxifen ici num3numnum3 induc anti-inflammatori respons acut model mous rat microgli cell,0,1.0,0.0,1231
+302,heparan sulphat harp harp found differ effect neutral anticoagul activ mimet heparan sulphat otrnum4 heparin purifi system human plasma,0,1.0,0.0,505
+303,glucos diabet mechan blood glucose-low effect num-day low calori diet vlcd num4 kj/d combin cessat blood glucose-low agent studi num2 num women num men obes bodi mass index num2num +/- num kg/m num mean +/- sem type num diabet patient age num2 +/- num year hba 1c num +/- num undergo insulin therapi,0,1.0,0.0,2431
+304,midazolam statu epilepticu midazolam treatment acut refractori statu epilepticu,0,1.0,0.0,1801
+305,clopidogrel st-elev myocardi infarction/stemi present single-cent longitudin cohort studi includ num num3 consecut patient st-elev myocardi infarct stemi undergo ppci pretreat num3 mg aspirin num3 mg clopidogrel,0,0.8211,0.17889999999999995,1585
+306,nscnum5 ovarian cancer human ovarian cancer cell line coc1 cell treat differ nanomolar nscnum5 without cddp cell growth apoptosi evalu respect mtt assay annexin-v assay flow cytometri,0,1.0,0.0,2999
+307,corticosteroid bronchiectasi bronchiectasi regular use inhal corticosteroid may improv lung function,0,1.0,0.0,2036
+308,statin cvd investig effect high-dos versu usual-dos statin pre-specifi outcom pad incid addit perform posthoc analysi efficaci high-dos statin reduc cvd risk among patient pad,0,1.0,0.0,2904
+309,verteporfin choroid neovascularization/cnv report outcom eye treat intravitr inject bevacizumab combin verteporfin photodynam therapi pdt choroid neovascular cnv age-rel macular degener amd,0,1.0,0.0,2366
+310,bile acid adenocarcinoma aim studi assess express bile acid receptor esophagu normal esophag barrett 's esophagu adenocarcinoma investig possibl function,0,1.0,0.0,2105
+311,olmesartan mbp amlodipine-olmesartan combin therapi bedtim administr reduc better mbp correct nocturn bp fall improv urinari albumin excret,0,1.0,0.0,2130
+312,calcium hypertens conclus result suggest angiotensin i-convert enzym inhibitor perindopril superior calcium channel blocker amlodipin reduc vascular endotheli dysfunct co-administ angiotensin receptor blocker patient essenti hypertens,0,1.0,0.0,316
+313,isofluran ripc thu ripc isofluran not propofol anesthesia decreas myocardi damag patient undergo cabg surgeri,0,0.805,0.19499999999999995,2226
+314,ginsenosid rh2 ovarian cancer inhibitori effect oral administr ginsenosid rh2 growth human ovarian cancer cell nude mice,0,1.0,0.0,2498
+315,arsen cytotox pretreat myeloid leukemia line hl-num2 all-tran retino acid atra up-regul aqp9 lead significantli increas arsen uptak as2o3-induc cytotox incub as2o3 might explain synerg atra as2o3,0,0.8011,0.1989,1262
+316,atorvastatin hyperlipidemia sinc hyperlipidemia not improv pravastatin atorvastatin niceritrol sinc level thyroid-stimul hormon tsh free t4 num3 iu/ml num ng/dl respect patient diagnos secondari hyperlipidemia hypothyroid,0,1.0,0.0,2373
+317,aspirin cardiac embol studi not support use aspirin primari prevent cardiac embol chronic rheumat heart diseas,0,1.0,0.0,1357
+318,corticosteroid prostat cancer comprehens review peer review literatur perform topic secondari hormon therapi includ oral antiandrogen adren androgen inhibitor corticosteroid estrogen compound gonadotropin-releas hormon antagonist altern hormon therapi advanc prostat cancer,0,1.0,0.0,2416
+319,num-fu adenocarcinoma nine human pancreat adenocarcinoma vari wide sensit chemotherapi especi num-fu,0,1.0,0.0,30
+320,valdecoxib postop pain clinic trial demonstr efficaci safeti celecoxib rofecoxib postop pain preemptiv analgesia newer agent valdecoxib etoricoxib also demonstr efficaci set,0,1.0,0.0,2271
+321,vorozol tumor vorozol like ovariectomi almost complet reduc tumor growth dmba-induc mammari carcinoma model rat,0,1.0,0.0,2494
+322,coumadin mitral stenosi compar studi efficaci coumadin aspirin primari cardioembol stroke prevent chronic rheumat heart diseas mitral stenosi atrial fibril conduct siriraj hospit mahidol univers bangkok thailand,0,1.0,0.0,1277
+323,kinum5 gastric cancer fgfr2 inhibitor kinum5 might therapeut promis treat drug-resist gastric cancer cell especi use combin snnum2 ptx vpnum2,0,1.0,0.0,204
+324,num-fu cancer/colon cancer chloroquin potenti anti-canc effect num-fu colon cancer cell,0,1.0,0.0,617
+325,metformin pco treatment insulin sensit metformin thiazolidinedion tzd improv metabol hormon pattern also improv ovul pco,0,1.0,0.0,488
+326,ceftazidim neutropenia risk factor vre colon paediatr oncolog patient includ durat neutropenia durat antibiot therapi exposur ceftazidim amikacin teicoplanin number antibiot use,0,0.8108,0.18920000000000006,1658
+327,borrelidin angiogenesi borrelidin also inhibit spontan lung metastasi bnum2-bl6 melanoma dose inhibit angiogenesi,0,0.7891,0.2109,2599
+328,fludarabin cll/chronic lymphocyt leukemia base mechanist similar fludarabin cladribin success analogu treatment chronic lymphocyt leukemia cll hypothes clofarabin would effect indol leukemia,0,1.0,0.0,1496
+329,indoxyl sulfat renal failur indoxyl sulfat progress renal failur effect low-protein diet oral sorbent indoxyl sulfat product urem rat undialyz urem patient,0,0.6076,0.3924,1950
+330,aspirin stroke post-hoc analysi num random ischem stroke trial aspirin treatment failur not found associ increas risk recurr stroke death,0,1.0,0.0,2838
+331,salicyl bronchial asthma drug choic patient not treat non-steroid anti-inflammatori drug nsaid peopl bronchial asthma peptic ulcer diseas hemophilia salicylate-sensit peopl children num2 year age pregnant breastfeed women,0,1.0,0.0,630
+332,procaterol asthmat examin effect procaterol beta num-adrenoceptor agonist skin wheal respons histamin platelet-activ factor paf substanc p bradykinin eight asthmat children double-blind random cross-ov studi,0,1.0,0.0,1245
+333,allylpyrocatechol rheumatoid arthriti taken togeth ex vivo studi establish allylpyrocatechol potent scaveng activ could consid add-on therapi treatment inflammation-associ disord like rheumatoid arthriti,0,1.0,0.0,2059
+334,sorafenib renal cell carcinoma symptom hypothyroid occur num2 patient treat sorafenib due metastat renal cell carcinoma,0,0.805,0.19499999999999995,208
+335,calcium hypertens effect calcium-entri blocker nicardipin intraren hemodynam essenti hypertens,0,0.8082,0.1918,2961
+336,ketotifen artifici tear substitut comparison effect ketotifen fumar numnum3 olopatadin hcl num ophthalm solut season allerg conjunct num2-day random double-mask artifici tear substitute-control trial,0,1.0,0.0,2285
+337,"pentostatin chronic leukemia ten patient hairi cell leukemia hcl seven patient b-cell chronic leukemia bcl studi intracellular num num'-oligoadenyl synthetas num,5oa activ mononuclear cell num h num2 h num2 h pentostatin administr",0,1.0,0.0,559
+338,phenobarbit tonic-clon seizur num2-year-old man past histori gener tonic-clon seizur treat phenobarbit present spinocerebellar ataxia,0,0.8102,0.1898,345
+339,cholesterol atherosclerosi conjug linol acid atherosclerosi no effect molecular marker cholesterol homeostasi thp-num macrophag,0,1.0,0.0,2989
+340,ammonium citrat hepatocellular carcinoma human hepatocellular carcinoma cell line hep3b hepg2 combin lsnum3 ferric ammonium citrat lsnum3/feac inhibit hif-1 protein express not inhibit hif-1 mrna express,0,1.0,0.0,2243
+341,mph adhd studi behavior physiolog action clinic behavior relev dose mph normal anim provid opportun explor role catecholamin transmitt prefront cortic function attent process relat normal oper brain circuit adhd patholog,0,1.0,0.0,2552
+342,capecitabin hnscc tumor addit demonstr transgen express tp significantli enhanc tumoricid effect capecitabin hnscc tumor otherwis low endogen tp dpd ratio,0,0.802,0.19799999999999995,186
+343,cocain cannabi depend studi evalu role nac cocain depend three studi cannabi depend two studi nicotin depend two studi methamphetamin addict one studi patholog gambl one studi,0,1.0,0.0,814
+344,floxuridin tumour effect aberr hepat arteri anatomi tumour respons hepat arteri infus floxuridin colorect liver metastas,0,1.0,0.0,1458
+345,methylprednisolon proteinuria surviv even prolong bindarit num medic diet combin low dose methylprednisolon num mg/kg inump partial modifi proteinuria surviv lupu mice addit group anim n num2,0,1.0,0.0,2983
+346,salbutamol breathless respons regular inhal fenoterol ipratropium bromid meter dose inhal mdi larg volum spacer regular nebul salbutamol ipratropium bromid assess home peak flow record spirometri two subject score rate breathless simpl four-point scale b activ score st georg 's respiratori questionnair,0,1.0,0.0,1398
+347,coumadin thromboembol compar studi coumadin aspirin primari cardioembol stroke thromboembol prevent chronic rheumat mitral stenosi atrial fibril,0,1.0,0.0,1632
+348,bp bone diseas bp provid support care reduc rate skelet morbid evid not abolish criteria stop administr differ use classic antineoplast drug not stop metastat bone diseas progress,0,1.0,0.0,1246
+349,rocuronium myalgia rocuronium-sugammadex reduc myalgia headach electroconvuls therapi patient major depress,0,1.0,0.0,1542
+350,acetaminophen analgesia compar effect iv acetaminophen oral ibuprofen respect postop pain control morphin requir patient receiv morphin patient-control iv analgesia pcia cesarean deliveri,0,1.0,0.0,925
+351,prednison diffus larg b-cell non-hodgkin lymphoma activ safeti dose-adjust infusion cyclophosphamid doxorubicin vincristin prednison chemotherapi rituximab elderli patient poor-prognost untreat diffus larg b-cell non-hodgkin lymphoma,0,1.0,0.0,2177
+352,theophyllin asthma maximum serum level num micrograms/ml num2num micrograms/ml attain num num hour dose t1 t2 coincid perfectli time critic morn dip num-num anumm nocturn excess num2num t1 num2num t2 circadian-tailor asymmetr dosag regimen prove take account chronopatholog asthma chronopharmacokinet theophyllin sustained-releas prepar,0,1.0,0.0,2801
+353,sunitinib manag neuroendocrin tumor believ studi sunitinib octreotid neoadjuv intent prepar tumor resect warrant strategi improv cur manag neuroendocrin tumor,0,1.0,0.0,2702
+354,curcumin cancer achiev effect cancer prevent curcumin need find new method enhanc effect curcumin diet,0,1.0,0.0,2113
+355,zanamivir ili uncontrol open-label multicentr studi evalu antivir activ safeti inhal zanamivir rotadisk via diskhal devic num2 mg administ twice daili num day subject num2 year old ili,0,1.0,0.0,1943
+356,adefovir hbv-infect two de novo hbv-infect patient ymdd mutat given adefovir combin lamivudin liver function gradual improv follow-up period,0,1.0,0.0,1011
+357,sunum4 tumor tripl combin use low-tox drug exposur pemetrex sunum4 result greater respons treatment alon combin two modal test endotheli tumor cell model,0,0.8143,0.1857,2232
+358,gaba ischemia report downregul gaba receptor gaba r express affect mrna protein level gaba r subunit hippocamp neuron subject oxygen-glucos depriv ogd vitro model ischemia,0,1.0,0.0,1015
+359,bp cancer hypercalcemia bp standard treatment cancer hypercalcemia dose num2 mg pamidron num4 mg clodron recommend former compound potent longer last effect,0,1.0,0.0,1907
+360,mg. hk conclud signific loss mg occur presenc neg mg balanc mg defici endurance-train subject prolong exposur hk daili mg supplement mg load test,0,0.8207,0.1793,2124
+361,desmopressin multipl sclerosi examin safeti efficaci desmopressin three dose given women multipl sclerosi treat nocturia without enuresi,0,1.0,0.0,1546
+362,bendamustin indol lymphoma bendamustin b mitoxantron shown potent cytotox drug treatment relaps refractori indol lymphoma,0,1.0,0.0,738
+363,num num-dihydroxybenzaldehyd oncogenesi sinc ckii involv cell prolifer oncogenesi result suggest num num-dihydroxybenzaldehyd may function inhibit oncogen diseas least part inhibit ckii activ,0,0.8267,0.1733,2862
+364,pristinamycin staphylococcu epidermidi staphylococcu epidermidi num3 isol search strain pristinamycin resist,0,1.0,0.0,83
+365,androgen ar/androgen receptor drug design suppress androgen receptor ar signal restor follow first-lin androgen depriv therapi,0,1.0,0.0,701
+366,aspart hepat c. includ requir improv enzymolog screen despit introduct test hepat c imbal popular unexplain chronic aminotransferas elev effort solv inher problem inadequ attempt use metabol chang hepatocyt improv diagnosi prognosi pathophysiolog understand viral liver diseas remark investig num'-num'-oligoadenyl synthetas better control interferon therapi chronic viral hepat use enzym marker etiolog particularli detect alcohol induc liver diseas continu prefer aminotransferas scenario although ratio aspart aminotransferas alanin aminotransferas mitochondri aspart aminotransferas total aspart aminotransferas activ larg depend sever intralobular local damag stage liver diseas,0,1.0,0.0,1244
+367,doxorubicin tumor th-num3 given num hr doxorubicin docetaxel increas dna damag apoptosi throughout tumor compar chemotherapi alon,0,1.0,0.0,1105
+368,triphosph cll major case num2 analogu triphosph present num2 hour infus indic prolong retent triphosph cll cell,0,1.0,0.0,530
+369,testosteron surgic menopaus testosteron defici menopaus women common appreci particularli patient hormon replac surgic menopaus,0,1.0,0.0,109
+370,vardenafil ed/erectil dysfunct vardenafil report improv success rate mainten erect suffici complet intercours sep-num compar placebo erectil dysfunct ed patient attempt intercours earli num2 minut dose,0,1.0,0.0,655
+371,steroid laboratori abnorm patient requir steroid repeat cours cyclophosphamid manag lupu nephriti ursodeoxychol acid ursolit administr result amelior cholestat laboratori abnorm,0,1.0,0.0,2381
+372,oxygen hypertens reactiv oxygen speci vascular biolog role arteri hypertens,0,0.8025,0.1975,2715
+373,aspirin unusu burn injuri unusu burn injuri due applic white vinegar aspirin mixtur,1,0.0,1.0,9
+374,acrylamid toxic present review focus sever advers health effect acrylamid includ mutagen genotox carcinogen neurotox reproduct toxic possibl outcom childhood exposur babi food infant formula,1,0.0,1.0,13
+375,methotrex toxic methotrex not remission-induc drug may dose-limit toxic,1,0.0,1.0,14
+376,num2 -hete melanoma result demonstr num2 -hete/num2 -hete activ erk fak signal pathway therebi upregul adhes metastat potenti melanoma cell,1,0.3548,0.6452,16
+377,methadon death control studi covari patient receiv methadon num2 increas risk death follow-up period adjust hazard ratio hr numnum2 num2 ci numnum2-numnum2 pua uanumnum3 result num2 num2 ci num2-num3 excess death per num2uanum3 person-year follow-up,1,0.0,1.0,21
+378,acetaminophen poison acetaminophen wide use human be analges purpos one frequent caus poison cat,1,0.0,1.0,26
+379,acetaminophen hepat failur acetaminophen-poison cat develop methemoglobinemia sometim hepat failur,1,0.0,1.0,29
+380,morphin delirium although recent studi suggest opioid rotat could effect treatment strategi morphine-induc delirium no prospect studi investig treatment effect opioid rotat use fentanyl,1,0.3995,0.6005,31
+381,mitoxantron cardiotox explor potenti dexrazoxan suppress subclin cardiotox ms patient receiv mitoxantron,1,0.3942,0.6058,37
+382,cyclosporin headach headach symptom num2 patient receiv cyclosporin and/or tacrolimu organ transplant retrospect assess,1,0.0,1.0,80
+383,levodopa dyskinesia levodopa treatment parkinson 's diseas effect mani type advers event complic diseas cours especi dyskinesia,1,0.20230000000000006,0.7977,81
+384,num-ht contract ketanserin-resist compon num-ht-induc contract found -log ecnum2 num f1 numnum2 num3 nm ketanserin -log ecnum2 num f1 numnum2 num4 nm ketanserin,1,0.2028,0.7972,82
+385,duloxetin insomnia gener duloxetin well toler num2 patient achiev maximum dose insomnia asthenia advers event report statist significantli p .num2 frequent duloxetine-tr patient compar placebo-tr patient,1,0.3882,0.6118,100
+386,steroid ulcer disease/ulc although possibl associ steroid therapi peptic ulcer diseas well known need ulcer prophylaxi therapi infant not unanim accept,1,0.1868,0.8132,112
+387,carbon monoxid toxic carbon monoxid toxic,1,0.3731,0.6269,117
+388,clozapin cardiomyopathi clozapin known caus cardiac side effect includ myocard pericard cardiomyopathi,1,0.0,1.0,124
+389,lithium toxic research use standard leach test life-cycl impact assess lcia hazard assess model evalu hazard wast classif resourc deplet potenti toxic potenti lithium batteri use cellphon,1,0.1936,0.8064,136
+390,latanoprost pain median visual analog pain-scal score acetazolamid latanoprost travoprost brinzolamid timolol group num0a1numnum2 num0a1numnum2 num0a1numnum2 num0a1numnum2 num0a1numnum2 respect,1,0.3786000000000001,0.6214,151
+391,cyclophosphamid hemorrhag cystiti bk virus-associ hemorrhag cystiti pediatr cancer patient receiv high-dos cyclophosphamid,1,0.0,1.0,156
+392,aflatoxin cancers/liv cancer liver cancer one common cancer worldwid particularli asia africa infecti hepat aflatoxin exposur common,1,0.20109999999999995,0.7989,180
+393,corticosteroid cataract howev oral corticosteroid user higher risk cataract num/num4 person-year,1,0.0,1.0,185
+394,manidipin dizzi two case delapril group withdrawn studi intoler cough one case manidipin group intoler dizzi headach,1,0.1807,0.8193,191
+395,clozapin glucos intoler accumul data develop glucos intoler adult receiv clozapin closer monitor bodyweight fast blood glucos imper,1,0.3944,0.6056,195
+396,lidocain tn recoveri unassist ambul spontan void occur earlier lidocain associ markedli higher incid tn,1,0.2109,0.7891,215
+397,nac hepat failur male cat seem suscept femal cat acetaminophen toxicosi num male die hepat failur num cat given acetaminophen/methylen blue num given acetaminophen/nac/methylen blue,1,0.17759999999999998,0.8224,228
+398,indomethacin necrot enterocol antenat indomethacin may associ increas risk periventricular leukomalacia necrot enterocol prematur infant therefor use judici tocolysi,1,0.0,1.0,245
+399,acetaminophen hepat failur male cat seem suscept femal cat acetaminophen toxicosi num male die hepat failur num cat given acetaminophen/methylen blue num given acetaminophen/nac/methylen blue,1,0.0,1.0,249
+400,ethylen glycol acidosi ingest ethylen glycol either accident suicid attempt character sever acidosi calcium oxal crystal format deposit wide varieti end organ effect may fatal,1,0.0,1.0,253
+401,ginkgolid hemorrhag concentr gener num3 time higher peak plasma valu measur oral intak egb num3 recommend dose num3 num3 mg. paf 'weak platelet activ not appear import primari hemostasi result rise seriou doubt paf antagonist effect ginkgolid could respons hemorrhag patient take egb num3,1,0.2004,0.7996,257
+402,ach/acetylcholin ad/alzheim 's diseas alzheim 's diseas ad associ defici acetylcholin ach forebrain correl brain patholog cognit dysfunct,1,0.3775,0.6225,292
+403,paraquat poison paraquat num num'-dimethyl-num num'-bipyridinium chlorid pq non-select herbicid pq poison accident intent ingest caus numer fatal around world everi year,1,0.0,1.0,293
+404,simvastatin infect although simvastatin patient improv significantli third day num2num vs. num2num p numnum3 non-signific increas mortal greater proport infect odd ratio num confid interv numnum2-num simvastatin group main safeti concern,1,0.1916,0.8084,306
+405,azathioprin ibd four case nhl ibd cohort sir num2num num2 ci num-num2 p=numnum4 receiv immunosuppress therapi azathioprin n=num methotrex n=num methotrex cyclosporin n=num,1,0.3764,0.6236,342
+406,loratadin increas ocular discomfort loratadin cetirizin hydrochlorid induc sign symptom associ ocular dryness includ increas corneal conjunctiv stain decreas tfbut increas ocular discomfort healthi individu,1,0.20420000000000005,0.7958,346
+407,barbitur respiratori depress refractori gcse often difficult treat tradit therapi barbitur induc hypotens respiratori depress prolong recoveri,1,0.0,1.0,360
+408,aspirin ulcer endoscopi frequent reveal gastroduoden disord among low-dos aspirin user administr ba enteric-co aspirin warrant concern gastroduoden ulcer,1,0.0,1.0,369
+409,steroid cryptococcosi sudden rapid deterior death rare consequ dissemin cryptococcosi steroid may worsen cours diseas,1,0.19410000000000005,0.8059,382
+410,vancomycin corynebacterium falsenii bacteremia corynebacterium falsenii bacteremia occur infant vancomycin therapi,1,0.0,1.0,384
+411,hbsag hepatocellular carcinoma cigarett smoke heavi alcohol consumpt hbsag independ associ increas risk mortal hepatocellular carcinoma not interact synergist,1,0.0,1.0,389
+412,silicon granulomat pneumon report case chronic progress granulomat pneumon respons subcutan silicon inject transgend male-to-femal patient infect human immunodefici viru num hiv-num,1,0.0,1.0,394
+413,acebutolol scle although first report acebutolol-induc scle awar occurr avoid acebutolol recommend patient stigmata lupu erythematosu,1,0.0,1.0,395
+414,vinca alkaloid peripher neuropathi microtubul inhibitor mti -base chemotherapi use treatment breast cancer -- includ vinca alkaloid taxan epothilon -- known associ peripher neuropathi,1,0.0,1.0,408
+415,methylen blue hepat failur male cat seem suscept femal cat acetaminophen toxicosi num male die hepat failur num cat given acetaminophen/methylen blue num given acetaminophen/nac/methylen blue,1,0.2149,0.7851,411
+416,docetaxel toxic given doxorubicin docetaxel th-num3 complement enhanc anticanc effect perivascular hypox region also increas toxic,1,0.0,1.0,418
+417,no tension-typ headach sinc calcineurin inhibitor known influenc renal metabol no key molecul tension-typ headach migrain interest whether calcineurin inhibitor might chang no metabol hbmec well,1,0.21200000000000008,0.7879999999999999,419
+418,hydrocortison cognit distort howev strong consist posit associ daili hydrocortison dose preval maladapt person trait inum ident problem cognit distort compuls restrict express callous opposition reject conduct problem social avoid narciss insecur attach p numnum2,1,0.37799999999999995,0.622,421
+419,aspirin stroke multivari analysi use calcul odd ratio recurr stroke recurr stroke death aspirin treatment failur patient durat avail follow-up num month toast patient num2 month nind rt-pa trial patient,1,0.20109999999999995,0.7989,426
+420,roxithromycin ten episod ten probabl drug roxithromycin induc,1,0.0,1.0,427
+421,cocain addict studi analyz suggest potenti role nac treatment addict especi cocain cannabi depend,1,0.3925,0.6075,432
+422,ramosetron abdomin pain ramosetron potent select serotonin num-ht num receptor antagonist shown affect abnorm colon function abdomin pain anim,1,0.1957,0.8043,440
+423,adr/adriamycin cardiac toxic adriamycin adr potent anticanc drug known caus sever cardiac toxic,1,0.0,1.0,442
+424,glucos pleural thicken develop pleural thicken relat level pleural fluid glucos p numnum2,1,0.0,1.0,447
+425,reboxetin anxieti irrit anxieti sleep disturb dri mouth common side effect reboxetin,1,0.0,1.0,461
+426,aza toxic signific proport studi cohort rheumatolog patient aza drug-rel toxic result discontinu aza,1,0.2028,0.7972,478
+427,quinotrierixin endoplasm reticulum paradox quinotrierixin exacerb endoplasm reticulum stress-induc phosphoryl eif2 turn led decreas protein translat,1,0.3943,0.6057,480
+428,pcp nasal carcinoma although pcp not classifi human carcinogen epidemiolog observ suggest exposur chlorophenol gener pcp solut particular may result increas risk certain malign disord nasal carcinoma soft tissu sarcoma,1,0.0,1.0,509
+429,axitinib palmar-plantar erythrodysaesthesia toler profil gener consist vegf receptor inhibitor axitinib associ numer lower incid palmar-plantar erythrodysaesthesia cutan toxic anaemia sorafenib phase iii trial,1,0.3993,0.6007,521
+430,cisplatin toxic determin patient prefer improv chemotox treatment advanc bladder cancer convent treatment advanc bladder cancer methotrex vinblastin doxorubicin plu cisplatin mvac median surviv num year signific toxic,1,0.3855,0.6145,523
+431,mtx toxic result suggest polymorph abcc4 abcc2 could novel marker mtx toxic pediatr,1,0.3973,0.6027,524
+432,cocain hyperthermia lethal effect cocain uniqu among illicit drug cocain propens caus hyperthermia,1,0.2067,0.7933,525
+433,carmustin ocular toxic articl discuss ocular toxic six patient advanc nonpretr colorect cancer receiv megados carmustin mitomycin support autolog bone marrow transplant,1,0.3884,0.6116,531
+434,ginkgolid bleed complic inhibit platelet activ factor paf -induc aggreg human thrombocyt ginkgolid consider possibl bleed complic oral intak ginkgo biloba extract,1,0.1904,0.8096,542
+435,atp avb unusu behaviour could interpret abnorm suscept atp patient could consid 'atp-sensit avb,1,0.3702,0.6298,547
+436,sodium nitroprussid toxic cyanid toxic complic sodium nitroprussid administr,1,0.0,1.0,552
+437,oleic acid adrp induct adrp tg accumul also observ oleic acid-tr huh-num human liver cell,1,0.3688,0.6312,556
+438,vinflunin neurotox articl provid overview incid characterist manag mti-associ neurotox known vinca alkaloid taxan well newer agent vinflunin ixabepilon,1,0.3726,0.6274,561
+439,num2 -hete melanoma endogen releas num2 -hete/num2 -hete host organ may affect metastat potenti melanoma,1,0.3921,0.6079,563
+440,num-ht contract ketanserin-resist compon num-ht-induc contract found -log ecnum2 num f1 numnum2 num3 nm ketanserin -log ecnum2 num f1 numnum2 num4 nm ketanserin,1,0.2056,0.7944,569
+441,ethanol muscl atrophi present num alcohol myopathi past present futur timothi j. peter victor r. preedi num protein adduct type ii fiber-predomin muscl ethanol-f rat simon worral seppo parkkila onni niemela num hydroperoxid chang alcohol myopathi junko adachi migiwa asamo yasuhino ueno num close associ testicular atrophi muscl atrophi increas protein catabol chronic ethanol administr kunihiko takeda masayoshi yamauchi kazuhiko sakamoto masaru takagi hisato nakajima gotaro toda,1,0.0,1.0,573
+442,melatonin hcc/apoptosi hepatocellular carcinoma melatonin induc apoptosi hepatocellular carcinoma hcc experiment studi effect melatonin endoplasm reticulum er stress-induc apoptosi hcc not test,1,0.1964,0.8036,579
+443,duloxetin asthenia gener duloxetin well toler num2 patient achiev maximum dose insomnia asthenia advers event report statist significantli p .num2 frequent duloxetine-tr patient compar placebo-tr patient,1,0.0,1.0,598
+444,calcium death cardiomyocyt calcium ca num+ load recogn major factor acut ischaemia-reperfus patholog promot cell death contractil dysfunct arrhythmogen activ,1,0.21419999999999995,0.7858,620
+445,olanzapin bodyweight gain quetiapin appear increas risk sedat bodyweight gain albeit less olanzapin,1,0.39299999999999996,0.607,643
+446,asa ulcer usual low dose asa relat ulcer reason small asymptomat probabl heal period week month,1,0.0,1.0,644
+447,strychnin convuls compound also report activ against convuls induc bicucullin picrotoxin strychnin,1,0.1966,0.8034,649
+448,tamoxifen uterin cancer object studi determin percentag women develop uterin cancer num2 month discontinu tamoxifen past user compar clinic patholog featur women develop uterin cancer tamoxifen therapi within num2 month stop therapi recent user,1,0.389,0.611,651
+449,venlafaxin hypertens num2num patient develop hypertens start treatment venlafaxin,1,0.0,1.0,659
+450,epothilon peripher neuropathi microtubul inhibitor mti -base chemotherapi use treatment breast cancer -- includ vinca alkaloid taxan epothilon -- known associ peripher neuropathi,1,0.3914,0.6086,663
+451,atp/adenosin triphosph atrioventricular block/avb sought investig patient syncop relationship document paroxysm atrioventricular block avb unknown mechan avb induc adenosin triphosph atp inject,1,0.1907,0.8093,681
+452,epothilon neuropathi epothilon new class mti may associ grade num/num peripher neuropathi howev neuropathi associ ixabepilon novel epothilon b analog gener mild moder revers baselin grade num level,1,0.2024,0.7976,689
+453,nmda pain mice enhanc function forebrain nmda receptor demonstr select enhanc persist pain allodynia,1,0.3995,0.6005,692
+454,lindan farmer 's lung insecticid ddt lindan aldicarb posit associ farmer 's lung among farmer,1,0.0,1.0,708
+455,paracetamol hypotens analysi cycl suggest hypotens paracetamol caus reduct cardiac index system vascular resist,1,0.0,1.0,727
+456,hydroxyzin cn dysfunct children diphenhydramin hydroxyzin effect h1-receptor antagonist medic caus cn dysfunct evidenc increas pnum3 latenc measur cognit function increas subject somnol,1,0.0,1.0,739
+457,nicotin vestibular dysfunct data support view measur advers effect reflect dose-depend nicotine-induc vestibular dysfunct,1,0.3972,0.6028,742
+458,oxaliplatin peripher sensori neuropathi acut revers cumul peripher sensori neuropathi observ frequent oxaliplatin treatment limit use,1,0.2017,0.7983,747
+459,tamoxifen breast cancer/uterin cancer greater num-fold increas risk uterin cancer women breast cancer expos tamoxifen,1,0.0,1.0,752
+460,aspirin epigastr pain aspirin group complic gastrointest symptom mainli epigastr pain no frank bleed observ,1,0.0,1.0,753
+461,quinin hear loss revers hear loss known complic follow administr quinin salicyl nonsteroid anti-inflammatori drug erythromycin,1,0.0,1.0,757
+462,asenapin extrapyramid symptoms/ep pool analysi monotherapi trial common advers event occur num patient twice incid placebo report acut phase asenapin monotherapi bipolar mania somnol dizzi extrapyramid symptom ep akathisia increas bodyweight similar natur occur longer-term monotherapi asenapin,1,0.0,1.0,759
+463,chloroxylenol dermat chloroxylenol caus hand dermat plumber,1,0.0,1.0,765
+464,picrotoxin convuls compound also report activ against convuls induc bicucullin picrotoxin strychnin,1,0.0,1.0,767
+465,methotrex toxic determin patient prefer improv chemotox treatment advanc bladder cancer convent treatment advanc bladder cancer methotrex vinblastin doxorubicin plu cisplatin mvac median surviv num year signific toxic,1,0.1826,0.8174,768
+466,dmba mammari carcinoma vorozol like ovariectomi almost complet reduc tumor growth dmba-induc mammari carcinoma model rat,1,0.19820000000000004,0.8018,771
+467,num-ht contract ring endotheli function attenu enzymat treatment num-ht caus contract -log ecnum2 num partial block ketanserin,1,0.0,1.0,786
+468,cisplatin toxic result demonstr cisplatin-caus hemosiderin deposit spleen provid valuabl clue understand molecular basi toxic cisplatin hemosiderin accumul iron metabol vivo,1,0.3786000000000001,0.6214,793
+469,ecstasi infect depress memori problem anxieti mood fluctuat poor concentr infect tremors/twitch weight loss significantli associ extent ecstasi use,1,0.0,1.0,804
+470,steroid cataract retrospect observ cohort studi cataract incid conduct among user oral intranas steroid identifi unit kingdom-bas gener practic research databas nest case-control analysi control confound factor,1,0.3886,0.6114,808
+471,budesonid allergi studi show allerg skin reaction may occur patient contact allergi budesonid inhal form drug use,1,0.0,1.0,817
+472,zotepin myoclon seizur report occurr myoclon seizur progress gener tonic-clon seizur zotepin along clear tempor associ dose depend modul evid case,1,0.19299999999999995,0.807,820
+473,probenecid pancytopenia patient rheumatoid arthriti develop life-threaten pancytopenia result low dose oral methotrex mtx toxic potenti probenecid,1,0.20809999999999995,0.7919,824
+474,aspirin toxic low dose aspirin asa use associ wide rang advers side effect upper gastrointestin gi tract rang troublesom symptom without mucos lesion seriou toxic includ ulcer gi bleed perfor even death,1,0.0,1.0,826
+475,sumatriptan contract ring intact endothelium num-ht1-like-select agonist sumatriptan caus small contract -log ecnum2 num intrins activ numnum2 respect num-ht resist blockad num4 nm ketanserin antagon num3 nm methiothepin,1,0.0,1.0,844
+476,noradrenalin thermal hyperalgesia howev iontophoresi noradrenalin thermal hyperalgesia greater guanethidine-pretr site salin pretreat site,1,0.3819,0.6181,858
+477,quetiapin bodyweight gain quetiapin appear increas risk sedat bodyweight gain albeit less olanzapin,1,0.0,1.0,859
+478,vancomycin recurr diseas vancomycin metronidazol use treat clostridium difficile-associ diseas cdad past num2 year approxim num2 patient develop recurr diseas,1,0.0,1.0,861
+479,vancomycin toxic data suggest dose-depend toxic cefuroxim vancomycin hcec vitro narrow rang safeti,1,0.3955,0.6045,871
+480,cyclophosphamid toxic despit continu therapeut success cyclophosphamid long-term follow-up patient wegen granulomatosi led increas concern toxic result prolong cyclophosphamid therapi encourag investig therapeut regimen,1,0.0,1.0,875
+481,oestrogen breast cancer addit oestrogen play import role breast cancer develop oestron sulphat e1 might main sourc activ oestrogen breast,1,0.3921,0.6079,892
+482,leuprolid weight gain num2 patient receiv leuprolid num weight gain num kg,1,0.0,1.0,894
+483,dexamethason vte set imids-bas treatment associ rate vte reach valu num2 num2 particularli dexamethason chemotherapi ad,1,0.3943,0.6057,904
+484,chromium vi toxic base experiment studi substanti amount ascorb acid would need administ prefer parenter soon exposur prevent system toxic chromium vi human,1,0.0,1.0,919
+485,num2 -hete scid adhes lung metastasi human melanoma cell cnum2 nod/scid mice also potenti co-treat num2 -hete,1,0.3926,0.6074,923
+486,olanzapin glucos dysregul new onset diabet mellitu spite conflict report emerg evid least two atyp antipsychot clozapin olanzapin associ increas risk develop glucos dysregul new onset diabet mellitu,1,0.0,1.0,927
+487,clozapin myocard clozapin known caus cardiac side effect includ myocard pericard cardiomyopathi,1,0.0,1.0,936
+488,oxygen toxic exposur high oxygen concentr produc toxic free radic releas,1,0.0,1.0,937
+489,clozapin pericard prompt case clozapine-rel pericard adolesc undertook retrospect chart review discov whether unrecogn case myocard pericard cardiomyopathi among children adolesc young adult treat clozapin,1,0.0,1.0,943
+490,medroxyprogesteron acetate/mpa cholelithiasi five out forty-f adult men num2 year age less receiv least six month medroxyprogesteron acet mpa depo provera im num3-num3 mg/week prevent sex-offend genital-mutil behavior develop symptomat cholelithiasi,1,0.1958,0.8042,953
+491,mitomycin ocular toxic ocular toxic system chemotherapi megados carmustin mitomycin,1,0.3861,0.6139,958
+492,no endotheli dysfunct pathophysiolog mechan headach may connect endotheli dysfunct term increas product no,1,0.3963,0.6037,967
+493,sodium abdomin pain taxin taxin b toxic alkaloid taxu block cardiac sodium calcium channel caus nausea vomit abdomin pain cardiac arrhythmia respiratori distress coma seizur death yew poison,1,0.0,1.0,975
+494,fluoroquinolon tendinopathi fluoroquinolon antibiot therapi recogn poorli understood caus achil tendinopathi,1,0.3931,0.6069,991
+495,heparin osteoporosi fondaparinux not inhibit osteoblast prolifer vitro may reduc risk heparin-induc osteoporosi associ long-term heparin administr,1,0.0,1.0,1001
+496,chromium vi toxic system toxic may occur follow ingest chromium vi salt chromium vi -induc skin burn inhal chromium vi occur occup,1,0.0,1.0,1010
+497,paroxetin sexual dysfunct ssri-induc sexual dysfunct describ fluoxetin paroxetin sertralin fluvoxamin num-num2 week therapi,1,0.20940000000000009,0.7906,1021
+498,anthracyclin cardiotox acut promyelocyt leukaemia apl treatment often includ high cumul dose anthracyclin caus long-term cardiotox,1,0.0,1.0,1030
+499,estrogen stroke epht recruit num4-num4 women 's health initi whi usa decid stop estrogen-progestin trial mean num year juli num4 increas risk breast cancer later num4 estrogen-onli trial ht increas risk stroke decreas risk hip fractur not affect coronari heart diseas incid,1,0.0,1.0,1037
+500,posaconazol gastric intrahepat mucormycosi knowledg first report case extens gastric intrahepat mucormycosi respond combin posaconazol lamb without surgic debrid,1,0.391,0.609,1066
+501,ascorb acid acut oxal nephropathi howev ascorb acid metabol precursor oxal administr ascorb acid high dose could lead acut oxal nephropathi particularli presenc renal failur,1,0.0,1.0,1071
+502,ursodeoxychol acid/ursolit laboratori abnorm patient requir steroid repeat cours cyclophosphamid manag lupu nephriti ursodeoxychol acid ursolit administr result amelior cholestat laboratori abnorm,1,0.38799999999999996,0.612,1098
+503,guanethidin thermal hyperalgesia observ indic prolong deplet adrenerg store guanethidin induc adrenerg supersensit cutan vessel adrenerg supersensit enhanc thermal hyperalgesia presenc noradrenalin,1,0.0,1.0,1116
+504,furosemid thrombocytopenia num-year case furosemide-induc immun thrombocytopenia,1,0.3878,0.6122,1124
+505,androgen prostat cancer androgen affect growth prostat gland mani prostat cancer,1,0.1846,0.8154,1125
+506,num-aza-num'-deoxycytidin necrosi find clinic achiev level num-aza-num'-deoxycytidin num-aza-dc potent inhibitor dna methyl modifi chromatin restor abil tumor necrosi factor alpha tnfalpha induc monocyt differenti acut myeloid leukemia cell nb4 unum3,1,0.3979,0.6021,1126
+507,pcp sarcoma although pcp not classifi human carcinogen epidemiolog observ suggest exposur chlorophenol gener pcp solut particular may result increas risk certain malign disord nasal carcinoma soft tissu sarcoma,1,0.0,1.0,1128
+508,aspirin respiratori diseas baselin feva lower lung function treatment clinic factor indic poor prognosi aspirin-exacerb respiratori diseas,1,0.2117,0.7883,1134
+509,bombesin tumor bombesin significantli stimul growth pt tumor day num2 mice sacrif day num2,1,0.0,1.0,1143
+510,methadon death increas risk death observ patient receiv methadon retrospect cohort studi even low dose support recommend not drug first choic noncanc pain,1,0.0,1.0,1144
+511,cisplatin hemolyt urem syndrom hemolyt urem syndrom may associ varieti etiolog chemotherapeut agent also report associ hemolyt urem syndrom includ mitomycin cisplatin bleomycin recent gemcitabin,1,0.17520000000000002,0.8248,1145
+512,heparin osteoporosi prolong administr heparin prevent treatment venou thromboembol associ risk heparin-induc osteoporosi,1,0.1919,0.8081,1160
+513,methotrex acceler nodulosi acceler nodulosi low dose methotrex therapi rheumatoid arthriti,1,0.1733,0.8267,1161
+514,num-anilinoacridin cytotox caspase-depend cell death mediat potent cytotox sulfid deriv num-anilinoacridin,1,0.3919,0.6081,1168
+515,ssri sexual dysfunct describ occurr manag sexual dysfunct induc select serotonin-reuptak inhibitor ssri provid overview sexual dysfunct report ssri-induc sexual dysfunct manag strategi,1,0.2006,0.7994,1169
+516,aspirin gastroduoden disord investig endoscop examin frequenc gastroduoden disord associ buffer enteric-co aspirin eca,1,0.18220000000000008,0.8178,1174
+517,gliclazid diabet vascular diseas hemobiolog vascular diseas review potenti gliclazid influenc pathogenesi diabet vascular diseas,1,0.3841,0.6159,1186
+518,acebutolol lupu syndrom literatur data along case suggest link acebutolol therapi onset lupu syndrom,1,0.0,1.0,1195
+519,fentanyl physic impair cognit physic impair confus abnorm co-ordin occur transderm fentanyl,1,0.0,1.0,1196
+520,ecstasi anxieti depress memori problem anxieti mood fluctuat poor concentr infect tremors/twitch weight loss significantli associ extent ecstasi use,1,0.0,1.0,1202
+521,aspirin red small eros lesion red small eros aspirin combin group tend exist proxim part small bowel,1,0.3944,0.6056,1204
+522,loratadin ocular dryness loratadin cetirizin hydrochlorid induc sign symptom associ ocular dryness includ increas corneal conjunctiv stain decreas tfbut increas ocular discomfort healthi individu,1,0.0,1.0,1216
+523,num-fluorouracil excess lacrim ocular side effect system num-fluorouracil therapi includ excess lacrim often resolv cessat therapi,1,0.0,1.0,1219
+524,alcohol brain damag drink pattern includ period alcohol consumpt follow abstin bing drink may enhanc possibl brain damag,1,0.0,1.0,1224
+525,aspirin bronchial hypersensit g allel ccr3 -num3t g associ persist bronchial hypersensit aspirin,1,0.1863,0.8137,1233
+526,cyclophosphamid hc patient hc cyclophosphamid ifosfamid neg bacteri cultur studi bkv,1,0.3994,0.6006,1258
+527,cadmium tumorigenesi find demonstr first time cell transform tumorigenesi induc cadmium due least part overexpress tef-num delta novel cadmium-respons proto-oncogen,1,0.2131,0.7869,1261
+528,remifentanil hypotens episod hypotens transient reduct splanchnic perfus common patient treat remifentanil compar receiv fentanyl opioid regimen,1,0.0,1.0,1271
+529,copper cytotox real-tim monitor copper ions-induc cytotox ei cell chip,1,0.19900000000000007,0.8009999999999999,1288
+530,pregabalin dizzi pregabalin well toler common advers event dizzi somnol,1,0.19710000000000005,0.8029,1303
+531,atra/all-tran retino acid hl present studi demonstr bufalin enhanc all-tran retino acid atra induc differenti hl-num2 cell accompani up-regul cbl famili ubiquitin ligas,1,0.19900000000000007,0.8009999999999999,1309
+532,alcohol cardiomyopathi moreov alcohol abus produc cardiac arrhythmia hypertens cardiomyopathi stroke even sudden death,1,0.0,1.0,1317
+533,vemurafenib cancer new agent possess uniqu toxic profil includ immune-rel advers event ipilimumab secondari cutan cancer report vemurafenib use,1,0.0,1.0,1319
+534,aldicarb farmer 's lung insecticid ddt lindan aldicarb posit associ farmer 's lung among farmer,1,0.0,1.0,1320
+535,roxithromycin advers drug reaction/ten/tox epiderm necrolysi case report highlight rare advers drug reaction oral roxithromycin caus toxic epiderm necrolysi ten,1,0.20540000000000005,0.7946,1326
+536,cyanoacryl arrest acut gv bleed cyanoacryl glue inject could achiev arrest acut gv bleed often alcohol num2 vs num2 need rescu surgeri less differ howev not signific,1,0.1828,0.8172,1333
+537,mtx toxic slco1b1 transport involv mtx elimin polymorph gene pathway could also role mtx toxic,1,0.19610000000000005,0.8039,1353
+538,fentanyl hypoventil contraind manag acut postop pain pain may decreas rapidli circumst fentanyl blood level adjust lead develop life-threaten hypoventil,1,0.1939,0.8061,1363
+539,clozapin attrit clozapin uniqu effect refractori schizophrenia treatment attrit high,1,0.3919,0.6081,1381
+540,ecstasi depress depress memori problem anxieti mood fluctuat poor concentr infect tremors/twitch weight loss significantli associ extent ecstasi use,1,0.0,1.0,1382
+541,quinin ocular toxic quinin ocular toxic treatment blind use therapi vasospasm,1,0.3738,0.6262,1390
+542,methamphetamin addict studi evalu role nac cocain depend three studi cannabi depend two studi nicotin depend two studi methamphetamin addict one studi patholog gambl one studi,1,0.2104000000000001,0.7896,1391
+543,manidipin headach two case delapril group withdrawn studi intoler cough one case manidipin group intoler dizzi headach,1,0.21519999999999995,0.7848,1397
+544,silic lung diseas hypothesi lung diseas silic inhal caus oxid gener,1,0.385,0.615,1405
+545,progesteron gallbladd diseas find consist increas incid gallbladd diseas relat high-progesteron state suggest mpa may caus agent cholelithiasi,1,0.20130000000000006,0.7987,1407
+546,atp avb patient atp induc long ventricular paus relat avb mean durat num2num rang num num2,1,0.3986,0.6014,1408
+547,cd fetal death anim experi high-dos exposur cd induc sever testicular interstiti hemorrhag edema increas incid fetal death placent necrosi,1,0.3955,0.6045,1410
+548,salicyl hear loss revers hear loss known complic follow administr quinin salicyl nonsteroid anti-inflammatori drug erythromycin,1,0.0,1.0,1431
+549,corticosteroid colon diverticula report describ cours three patient develop perfor colon diverticula tempor relat corticosteroid use,1,0.0,1.0,1437
+550,furosemid decreas blood viscos furosemid administr mean arteri blood pressur decreas blood viscos carotid systol shear stress increas group,1,0.3959,0.6041,1438
+551,thienopyridin small bowel injuri combin low-dos aspirin thienopyridin exacerb small bowel injuri,1,0.0,1.0,1446
+552,perindopril effect stroke reduct lower within-individu visit-to-visit variabl blood pressur read amlodipine/perindopril combin treatment arm ascot studi shown account effect stroke reduct rate combin compar atenolol diuretic-bas therapi despit overal similar blood pressur lower,1,0.17679999999999996,0.8232,1447
+553,nicotin dizzi nicotin wellknown unpleas side effect e.g. transient dizzi nausea nicotine-induc nystagmu nin,1,0.0,1.0,1484
+554,acebutolol cutan lupu erythematosu acebutolol-induc subacut cutan lupu erythematosu,1,0.1875,0.8125,1490
+555,h2o2 patholog lesion patholog lesion deposit igg c3 mpo found immun rat perfus mpo h2o2 without neutral proteas mpo alon rat strain day num day num2,1,0.3861,0.6139,1493
+556,fentanyl hypoventil transderm fentanyl administ cautious patient pre-exist condit emphysema may predispos develop hypoventil,1,0.39799999999999996,0.602,1502
+557,fatti acid colorect cancer risk colorect cancer may influenc dietari intak variou vitamin miner essenti fatti acid,1,0.1955,0.8045,1507
+558,reboxetin dri mouth irrit anxieti sleep disturb dri mouth common side effect reboxetin,1,0.0,1.0,1511
+559,acetylcholin spasm major complic spasm provoc test intracoronari inject acetylcholin,1,0.1905,0.8095,1515
+560,acetazolamid pain median visual analog pain-scal score acetazolamid latanoprost travoprost brinzolamid timolol group num0a1numnum2 num0a1numnum2 num0a1numnum2 num0a1numnum2 num0a1numnum2 respect,1,0.3955,0.6045,1526
+561,bombesin cancer variou studi suggest bombesin gastrin-releas peptid act autocrin growth factor may play role initi progress cancer includ breast,1,0.0,1.0,1530
+562,paclitaxel cytotox paclitaxel preferenti cytotox radioresist tumor clone level paclitaxel-induc cytotox significantli p numnum4 influenc raf-num kinas activ level,1,0.0,1.0,1539
+563,sorbitol turp syndrom report case hyperglycaemia lactic acidosi complic turp syndrom caus massiv absorpt approxim num2 litr sorbitol- mannitol irrig solut,1,0.0,1.0,1547
+564,polychlorin biphenyls/pcb nafld/non-alcohol fatti liver diseas polychlorin biphenyl pcb persist environment toxic present num3 ofaeunum adult dose-depend associ obes non-alcohol fatti liver diseas nafld,1,0.0,1.0,1550
+565,clozapin sialorrhea current treatment strategi clozapine-induc sialorrhea,1,0.3843,0.6157,1565
+566,tfa coronari heart diseas although increas report effect diet contain tfa risk factor metabol syndrom diabet mellitu coronari heart diseas observ recent year influenc intestin inflamm remain unknown,1,0.0,1.0,1575
+567,acetylcholin spasm spasm provoc test use acetylcholin perform care although consid safe reliabl method,1,0.0,1.0,1579
+568,mibg pulmonari hypertens num3 i-mibg also use potenti marker pulmonari endotheli cell function may relat pulmonari hypertens,1,0.0,1.0,1584
+569,nicotin nausea degre nicotine-induc nausea significantli correl postur imbal,1,0.0,1.0,1587
+570,ethanol hyperthermia except one hyperthermia victim influenc ethanol,1,0.21640000000000004,0.7836,1597
+571,salmeterol asthma small statist signific increas respiratory-rel asthma-rel death combin asthma-rel death life-threaten experi total popul receiv salmeterol,1,0.0,1.0,1612
+572,cd hemorrhag anim experi high-dos exposur cd induc sever testicular interstiti hemorrhag edema increas incid fetal death placent necrosi,1,0.0,1.0,1613
+573,clozapin sialorrhea sialorrhea common disabl advers effect clozapin use,1,0.19330000000000008,0.8067,1614
+574,thienopyridin small bowel injuri combin low-dos aspirin therapi thienopyridin may exacerb small bowel injuri prevent strategi establish,1,0.0,1.0,1627
+575,nickel toxic environment impact associ resourc deplet human toxic mainli associ cobalt copper nickel thallium silver wherea ecotox potenti primarili associ cobalt copper nickel thallium silver,1,0.1955,0.8045,1652
+576,iron lung diseas inhal silic dust may caus lung diseas surfac coordin iron subsequ oxid gener via fenton reaction,1,0.2097,0.7903,1656
+577,thalidomid vte sinc introduct immunomodulatori deriv imid thalidomid lenalidomid therapeut armamentarium mm vte emerg one lead complic particular patient newli diagnos mm,1,0.0,1.0,1665
+578,fatti acid death clear studi other multipl pathway fatti acid palmit lead beta-cel dysfunct death,1,0.3784,0.6216,1678
+579,serotonin/num-ht/num-hydroxytryptamin drug depend present review provid overview serotonin num-hydroxytryptamin num-ht 2c receptor relationship drug depend,1,0.3982,0.6018,1683
+580,roxithromycin advers drug reaction/ten naranjo advers drug reaction probabl scale suggest likelihood oral administr roxithromycin respons ten 'probabl,1,0.0,1.0,1695
+581,aspirin respiratori diseas clinic cours patient aspirin-exacerb respiratori diseas predict prognosi,1,0.0,1.0,1704
+582,amphotericin b. nausea analyz daili basi mean chill score meperidin dosag puls rise also higher addit nausea vomit num num2 patient receiv rapid infus versu num num patient receiv slow infus p less numnum2 appear common receiv amphotericin b rapidli,1,0.0,1.0,1705
+583,iron tuberculosi increas incid tuberculosi observ among silic worker could explain accumul iron complex dust particl lung made avail dormant mycobacteria virul factor,1,0.0,1.0,1718
+584,methylphenid juvenil huntington diseas juvenil huntington diseas exacerb methylphenid case report,1,0.2098,0.7902,1719
+585,dihydrotestosterone/dht prostat cancer although androgen effect prostat cell believ dihydrotestosteron dht activ metabolit primarili util prostat cancer cell growth divis,1,0.0,1.0,1724
+586,cbnum4 breast cancer result indic cbnum4 potenti respons breast cancer cell tnfalpha suggest ceramid and/or cpla num might involv downstream effector vitamin d-mediat caspase-independ cell death,1,0.3691,0.6309,1738
+587,sodium hypertens epidemiolog clinic studi suggest magnesium may reduc frequenc sudden death sodium contribut occurr hypertens calcium may help prevent osteoporosi,1,0.0,1.0,1739
+588,fentanyl confus cognit physic impair confus abnorm co-ordin occur transderm fentanyl,1,0.0,1.0,1744
+589,corticosteroid/corticosteroid cataract oral corticosteroid user increas risk cataract risk among intranas corticosteroid user unknown,1,0.0,1.0,1746
+590,calcium chlorid clonic-ton convuls effect calcium chlorid inject cerebr ventricl group-hous unanaesthet cat upon vocal rage hiss snarl fight attack paw claw defens paw claw bite mydriasi tremor clonic-ton convuls produc carbachol eserin inject similarli investig,1,0.0,1.0,1747
+591,ndma cytotox cytotox due exposur ndma partial inhibit antioxid n-acetylcystein ascorb acid butyl hydroxyanisol n-t-butyl-alpha-phenylnitron not potenti upon glutathion deplet,1,0.17820000000000005,0.8218,1753
+592,clozapin pericard chart review potenti featur myocard pericard cardiomyopathi children adolesc treat clozapin,1,0.17520000000000002,0.8248,1756
+593,anthracyclin cardiotox anthracyclin cardiotox close correl cumul dose great variabl individu suscept dramat increas advanc age,1,0.3908,0.6092,1767
+594,morphin opioid rotat twenty-on consecut cancer patient morphine-induc delirium underw opioid rotat fentanyl,1,0.2166,0.7834,1780
+595,nickel cancer/nas cancer aim determin whether occup exposur receiv manufactur nickel alloy lead increas risk cancer particular nasal cancer lung cancer,1,0.0,1.0,1784
+596,ecstasi memori problem depress memori problem anxieti mood fluctuat poor concentr infect tremors/twitch weight loss significantli associ extent ecstasi use,1,0.0,1.0,1792
+597,sorbitol turp syndrom anoth featur turp syndrom hyperglycaemia lactic acidosi caus massiv absorpt sorbitol,1,0.1994,0.8006,1793
+598,silicon pneumon silicon commonli use cosmet procedur owe presum inert yield seriou sequela includ acut embol pneumon,1,0.0,1.0,1804
+599,ca4p oculomotor nerv palsi dose-limit toxic effect dlt revers ataxia oculomotor nerv palsi occur two patient prostat cancer receiv weekli ca4p num2 mg/m2,1,0.0,1.0,1817
+600,arsen trioxid death dynam effect autophagi arsen trioxide-induc death human leukemia cell line hlnum2 cell,1,0.0,1.0,1821
+601,num-fluorouracil stenosi sever stenosi puncta canaliculi may associ prolong system num-fluorouracil therapi,1,0.0,1.0,1825
+602,ixabepilon peripher neuropathi epothilon new class mti may associ grade num/num peripher neuropathi howev neuropathi associ ixabepilon novel epothilon b analog gener mild moder revers baselin grade num level,1,0.18010000000000004,0.8199,1833
+603,vigabatrin vfc summari half children treat vigabatrin demonstr vfc abnorm ocular electrophysiolog studi,1,0.17859999999999998,0.8214,1840
+604,gemcitabin hemolyt urem syndrom num2-year-old caucasian male treat four cycl gemcitabin num num3 mg/m2 develop clinic laboratori find compat hemolyt urem syndrom,1,0.20330000000000004,0.7967,1849
+605,probenecid toxic patient rheumatoid arthriti develop life-threaten pancytopenia result low dose oral methotrex mtx toxic potenti probenecid,1,0.0,1.0,1855
+606,alcohol hepatocellular carcinoma heavi alcohol drink associ hepatocellular carcinoma mortal risk subgroup men test hbsag rr =num num2 ci num num,1,0.1927,0.8073,1880
+607,leflunomid rheumatoid nodul antirheumat drug methotrex leflunomid lef infliximab etanercept known risk factor develop rheumatoid nodul,1,0.0,1.0,1881
+608,asa gi complic death worst outcom gi complic low dose asa user data aspect scarc,1,0.392,0.608,1882
+609,cocain depend studi evalu role nac cocain depend three studi cannabi depend two studi nicotin depend two studi methamphetamin addict one studi patholog gambl one studi,1,0.21900000000000008,0.7809999999999999,1897
+610,aspirin cardiovascular complic aspirin group slightli increas rate cardiovascular complic num2num vs num pae=aenumnum3 like reflect increas cardiovascular comorbid led physician recommend aspirin therapi,1,0.1975,0.8025,1898
+611,tfa inflamm review describ pro-inflammatori effect tfa diari diet variou system disord also discuss possibl role tfa gut inflamm,1,0.1957,0.8043,1919
+612,aminoglycosid toxic haemofiltr indic particularli aminoglycosid toxic,1,0.3692,0.6308,1920
+613,nicotin motion sick addit motion stimul aggrav dizzi nausea i.e. nicotin increas sensit motion sick,1,0.0,1.0,1925
+614,haloperidol neurolept syndrom patient suffer rare enzym defici develop malign neurolept syndrom treat one singl dose haloperidol,1,0.0,1.0,1935
+615,zaleplon reduct sleep latenc result phase ii/iii studi suggest zaleplon num num2 mg produc dose-depend reduct sleep latenc patient suffer primari insomnia,1,0.0,1.0,1936
+616,quinin toxic although quinin load dose may effect uniform dose rapid fever clearanc also appear associ higher toxic,1,0.0,1.0,1940
+617,yohimbin anxieti yohimbin result signific increas anxieti patient ptsd not healthi subject,1,0.0,1.0,1945
+618,aspirin small bowel injuri combin low-dos aspirin thienopyridin exacerb small bowel injuri,1,0.1926,0.8074,1948
+619,oleic acid adrp jnum3 murin macrophag incub either vldl oleic acid content adrp triacylglycerol tg increas num- num-fold,1,0.2065,0.7935,1963
+620,cholesterol atherosclerosi peroxisom proliferator-activ receptor ppar regul transcript gene involv cholesterol homeostasi thu repres import therapeut target term reduc atherosclerosi,1,0.3781,0.6219,1967
+621,num2 -hete melanoma adhes lung metastasi human melanoma cell cnum2 nod/scid mice also potenti co-treat num2 -hete,1,0.3867,0.6133,1982
+622,nickel hypersensit claim high correl posit histori nickel hypersensit patch-test result test unnecessari histori hypersensit,1,0.2009,0.7991,1998
+623,acetaminophen methemoglobinemia acetaminophen-poison cat develop methemoglobinemia sometim hepat failur,1,0.0,1.0,2002
+624,levobupivacain death awak sheep exampl almost num2 levobupivacain requir caus death,1,0.3965,0.6035,2006
+625,dihydroergotamin primari headach disord determin dose side effect dihydroergotamin affect outcom primari headach disord,1,0.3961,0.6039,2015
+626,aspirin small bowel injuri recent studi small bowel injuri enteropathi associ low-dos aspirin increasingli recogn,1,0.0,1.0,2016
+627,morphin analgesia doubl blind cross studi design evalu effect ketamin spinal morphin analgesia termin cancer pain patient,1,0.384,0.616,2028
+628,ddt farmer 's lung insecticid ddt lindan aldicarb posit associ farmer 's lung among farmer,1,0.0,1.0,2029
+629,diphenhydramin toxic dose-depend toxic diphenhydramin overdos,1,0.0,1.0,2035
+630,pah cancer polycycl aromat hydrocarbon pah ubiquit environment pollut toxic focu establish cancer risk human,1,0.2088,0.7912,2039
+631,clozapin myocard chart review potenti featur myocard pericard cardiomyopathi children adolesc treat clozapin,1,0.19530000000000008,0.8047,2042
+632,norepinephrin asystol num2-year-old male experienc postexercis bradycardia asystol higher basal plasma norepinephrin num3 versu num2 +/- num pg/ml epinephrin num2 versu less num2 pg/ml similar vagal tone vagal tone index numnum2 versu numnum2 +/- numnum2 u compar num close match subject underw unev stress test,1,0.3971,0.6029,2051
+633,capecitabin toxic neurotox infrequ report toxic capecitabin,1,0.2007,0.7993,2067
+634,taxan peripher neuropathi microtubul inhibitor mti -base chemotherapi use treatment breast cancer -- includ vinca alkaloid taxan epothilon -- known associ peripher neuropathi,1,0.1974,0.8026,2068
+635,nmda allodynia mice enhanc function forebrain nmda receptor demonstr select enhanc persist pain allodynia,1,0.1989,0.8011,2090
+636,fingolimod neurolog condit report case woman multipl sclerosi develop sever neurolog condit follow natalizumab nzb withdraw soon fingolimod fti initi,1,0.0,1.0,2116
+637,adr mitochondri damag electron microscopi reveal dose-depend ultrastructur alter mark mitochondri damag nontransgen mice treat adr not transgen litterm,1,0.3876,0.6124,2125
+638,silicon dyspnea receiv silicon inject buttock patient develop rapid onset dyspnea pleurit chest pain fever chill,1,0.0,1.0,2131
+639,bombesin gastrinoma demonstr first time bombesin trophic hormon gastrinoma,1,0.387,0.613,2132
+640,levodopa anxieti dose-respons relationship levodopa mood anxieti fluctuat parkinson 's diseas double-blind placebo-control studi,1,0.3899,0.6101,2136
+641,gemcitabin hemolyt urem syndrom hemolyt urem syndrom may associ varieti etiolog chemotherapeut agent also report associ hemolyt urem syndrom includ mitomycin cisplatin bleomycin recent gemcitabin,1,0.1925,0.8075,2141
+642,aza toxic averag initi dose aza prescrib num3anum2 mg. num2 develop aza relat toxic,1,0.0,1.0,2144
+643,lithium toxic howev rel contribut aluminum lithium human toxic ecotox could not estim due insuffici toxic data model,1,0.3787,0.6213,2145
+644,quinin vasospasm case ocular toxic vasospasm secondari quinin poison describ,1,0.1967,0.8033,2147
+645,salmeterol death small signific increas respiratory-rel death num2 vs num2 rr numnum2 num2 ci numnum2 numnum2 asthma-rel death num2 vs num rr numnum2 num2 ci numnum2 num2numnum2 combin asthma-rel death life-threaten experi num2 vs num2 rr numnum2 num2 ci numnum2 numnum2 subject receiv salmeterol vs placebo,1,0.3805,0.6195,2162
+646,estrogen breast cancer epht recruit num4-num4 women 's health initi whi usa decid stop estrogen-progestin trial mean num year juli num4 increas risk breast cancer later num4 estrogen-onli trial ht increas risk stroke decreas risk hip fractur not affect coronari heart diseas incid,1,0.3819,0.6181,2164
+647,salmeterol asthma imbal occur larg african-american subpopul respiratory-rel death life-threaten experi num2 vs num rr numnum2 num2 ci numnum2 num2numnum2 combin asthma-rel death life-threaten experi num2 vs num rr numnum2 num2 ci numnum2 num2numnum2 subject receiv salmeterol vs placebo,1,0.0,1.0,2169
+648,indomethacin periventricular leukomalacia antenat indomethacin associ increas risk periventricular leukomalacia odd ratio num num2 confid interv ci num-num,1,0.0,1.0,2174
+649,mtx toxic treatment mtx often caus toxic necessit dose reduct treatment cessat,1,0.0,1.0,2180
+650,tianeptin cardiac toxic present studi suggest tianeptin tricycl antidepress endow less cardiac toxic classic tricycl antidepress,1,0.3835,0.6165,2194
+651,pah toxic oral ingest pah also caus toxic even affect pharmacokinet behavior therapeut agent,1,0.0,1.0,2248
+652,axitinib toxic toler profil gener consist vegf receptor inhibitor axitinib associ numer lower incid palmar-plantar erythrodysaesthesia cutan toxic anaemia sorafenib phase iii trial,1,0.1978,0.8022,2249
+653,pcb cancer present review address addit scientif data becam avail atsdr num4 num4 evalu magnitud offset weight evid numer epidemiolog studi exposur pcb not causal associ human cancer conclus num year later meaning evid pcb pose carcinogen risk human,1,0.19220000000000004,0.8078,2250
+654,olanzapin mania olanzapin like risperidon also associ onset mania adult,1,0.0,1.0,2253
+655,vinblastin toxic determin patient prefer improv chemotox treatment advanc bladder cancer convent treatment advanc bladder cancer methotrex vinblastin doxorubicin plu cisplatin mvac median surviv num year signific toxic,1,0.3955,0.6045,2259
+656,nucleosid axon injuri nucleosid revers transcriptas inhibitor human immunodefici viru protein caus axon injuri human dorsal root ganglia cultur,1,0.2049,0.7951,2261
+657,nicotin nausea dizzi nausea nin unsteadi also depend nicotin dosag p numnum2 .nicotin blood concentr better predictor tempor depend nystagmu nicotin dosag,1,0.2231,0.7769,2277
+658,arsen cytotox knum3 egfp-aqp9 transfect accumul significantli higher level intracellular arsen control knum3 egfp incub as2o3 result significantli increas as2o3-induc cytotox,1,0.3926,0.6074,2286
+659,no headach pathophysiolog mechan headach may connect endotheli dysfunct term increas product no,1,0.3793,0.6207,2298
+660,silicon granulomat pneumon progress granulomat pneumon respons cosmet subcutan silicon inject patient hiv-num infect case report review literatur,1,0.1903,0.8097,2309
+661,capsaicin tactil hyperalgesia/allodynia erb-num3 allevi tactil hyperalgesia induc capsaicin revers tactil allodynia caus spinal nerv ligat variou chemic insult,1,0.20409999999999995,0.7959,2316
+662,roxithromycin toxic epiderm necrolysi roxithromycin-induc toxic epiderm necrolysi,1,0.0,1.0,2317
+663,doxorubicin toxic determin patient prefer improv chemotox treatment advanc bladder cancer convent treatment advanc bladder cancer methotrex vinblastin doxorubicin plu cisplatin mvac median surviv num year signific toxic,1,0.2097,0.7903,2321
+664,ixabepilon neurotox articl provid overview incid characterist manag mti-associ neurotox known vinca alkaloid taxan well newer agent vinflunin ixabepilon,1,0.3988,0.6012,2329
+665,bradykinin sindbi viru infect bradykinin enhanc sindbi viru infect human brain microvascular endotheli cell,1,0.3906,0.6094,2330
+666,carmustin ocular toxic ocular toxic system chemotherapi megados carmustin mitomycin,1,0.3791,0.6209,2331
+667,satur fatti acids/sfa atherosclerosi propos dietari satur fatti acid sfa may also serv endogen ligand tlr2 tlr4 therebi promot diseas associ inflamm dyslipidemia includ atherosclerosi insulin resist,1,0.20640000000000008,0.7936,2348
+668,acetaminophen toxicosi male cat seem suscept femal cat acetaminophen toxicosi num male die hepat failur num cat given acetaminophen/methylen blue num given acetaminophen/nac/methylen blue,1,0.0,1.0,2349
+669,steroid liver failur report two hepat b viru hbv carrier liver failur withdraw corticosteroid steroid administ treatment seriou asthmat attack,1,0.3888,0.6112,2361
+670,lorazepam cognit impair relationship plasma baselin pre-drug gaba concentr cognit impair induc acut oral dose lorazepam num num mg investig num2 healthi elderli individu,1,0.0,1.0,2363
+671,nicotin dizzi addit motion stimul aggrav dizzi nausea i.e. nicotin increas sensit motion sick,1,0.1974,0.8026,2369
+672,selenium fetal death selenium margin associ reduc risk low birth weight rel risk rr numnum2 num2 ci numnum2 numnum2 p numnum2 increas risk fetal death rr numnum2 num2 ci numnum2 numnum2 p numnum2 no effect risk prematur small-for-gest age birth,1,0.0,1.0,2403
+673,simvastatin pad median follow-up num8ueyear num2 patient num receiv atorvastatin num3 patient num receiv simvastatin develop pad hr=numnum2 num2 ci numnum2 numnum2 p=numnum3,1,0.0,1.0,2418
+674,chromium vi dermat repeat topic exposur chromium vi may caus allerg contact dermat format chrome ulcer,1,0.0,1.0,2425
+675,gnrh submucos myoma spontan expuls submucos myoma might occur administr gnrh agonist henc may accept altern symptomat femal without sexual exposur,1,0.3869,0.6131,2428
+676,remifentanil reduct splanchnic perfus episod hypotens transient reduct splanchnic perfus common patient treat remifentanil compar receiv fentanyl opioid regimen,1,0.0,1.0,2440
+677,cocain hyperthermia howev cocaine-induc hyperthermia occur primarili hot weather hypothes cocain also impair thermoregulatori adjust mediat heat dissip,1,0.0,1.0,2443
+678,tfa metabol syndrom although increas report effect diet contain tfa risk factor metabol syndrom diabet mellitu coronari heart diseas observ recent year influenc intestin inflamm remain unknown,1,0.1969,0.8031,2460
+679,levodopa osteoporot fractur calcif tissu int num2 num3-num2 num4 levodopa intak associ increas homocysteinemia known link poorer bone qualiti consequ osteoporot fractur,1,0.0,1.0,2484
+680,alcohol stroke moreov alcohol abus produc cardiac arrhythmia hypertens cardiomyopathi stroke even sudden death,1,0.0,1.0,2491
+681,h2o2 toxic report h2o2-induc cellular toxic act prdx6 hyperoxid,1,0.0,1.0,2499
+682,sodium valproat tubulo-interstiti nephriti tubulo-interstiti nephriti caus sodium valproat,1,0.0,1.0,2501
+683,copper cytotox result indic complex quinolinon schiff base copper serv significantli enhanc cytotox,1,0.3927000000000001,0.6073,2507
+684,cisplatin cytotox sensit anum3 cell cisplatin cytotox induc p-akt inhibit mediat upregul puma wherea induc p-erk1/num inhibit occur bcl-num downregul,1,0.39399999999999996,0.606,2508
+685,sevofluran unconsci author record num2-channel electroencephalogram healthi human particip conscious sevoflurane-induc unconsci recoveri n num2 n num suitabl analysi,1,0.3894,0.6106,2514
+686,bicucullin convuls compound also report activ against convuls induc bicucullin picrotoxin strychnin,1,0.0,1.0,2519
+687,acebutolol scle present herein first case scle induc acebutolol,1,0.18320000000000008,0.8168,2526
+688,adriamycin acut cardiac toxic protect role manganes superoxid dismutas against adriamycin-induc acut cardiac toxic transgen mice,1,0.0,1.0,2533
+689,barbitur coma includ 'forc hyperventil paco2 num2 mmhg barbitur coma experiment protocol tri buffer indomethacin induc hypothermia,1,0.3799,0.6201,2541
+690,methan constip presenc methan lactulos breath test associ constipation-predomin ib,1,0.0,1.0,2563
+691,nickel respiratori cancer excess risk respiratori cancer demonstr group nickel-expos worker,1,0.0,1.0,2569
+692,midazolam less hypotens refractori gcse continu inumv midazolam infus num-num mg/kg/hr num mg/kg inumv bolu effect advantag tradit therapi induc less hypotens cardiorespiratori depress easili titrat,1,0.2015,0.7985,2576
+693,num-fluorouracil ocular toxic import oncologist ophthalmologist awar potenti ocular toxic num-fluorouracil,1,0.0,1.0,2587
+694,amiodaron pneumonia vivo probe-bas confoc laser endomicroscopi amiodarone-rel pneumonia,1,0.0,1.0,2609
+695,levobupivacain cardiotox revers levobupivacaine-induc cardiotox also assess,1,0.0,1.0,2612
+696,risperidon mania risperidone-induc mania report adult therefor increas caution use decid treat children adolesc risperidon particularli predisposit toward mania,1,0.0,1.0,2613
+697,vancomycin corynebacterium falsenii bacteremia give first detail descript clinic signific corynebacterium falsenii bacteremia occur infant vancomycin therapi,1,0.0,1.0,2623
+698,chromium vi ulcer repeat topic exposur chromium vi may caus allerg contact dermat format chrome ulcer,1,0.0,1.0,2625
+699,cyclosporin headach singl case cyclosporine-induc headach report,1,0.20330000000000004,0.7967,2626
+700,sevofluran unconsci furthermor revers disrupt anterior-posterior phase relationship alpha bandwidth identifi correl sevoflurane-induc unconsci,1,0.3945,0.6055,2629
+701,testosteron ed ed common symptom patient type num diabet also low testosteron level,1,0.3922,0.6078,2633
+702,streptozotocin diabet express pancreat islet mhc class insulin ica num3 tyrosin phosphatas low-dos streptozotocin-induc diabet mice,1,0.1946,0.8054,2642
+703,cisplatin apoptot cytotox lung cancer cell knockdown rip1 substanti increas cisplatin-induc apoptot cytotox associ robust jnk activ,1,0.1862000000000001,0.8138,2644
+704,aspirin asthma aspirin-intoler asthma aia occur asthma exacerb exposur aspirin,1,0.3928,0.6072,2663
+705,thapsigargin endoplasm reticulum xbp1 mrna splice express endoplasm reticulum stress respons gene determin cell expos thapsigargin presenc absenc quinotrierixin,1,0.397,0.603,2669
+706,anthracyclin cardiotox establish cancer drug anthracyclin also form ro free radic respons cardiotox anthracyclin,1,0.0,1.0,2673
+707,corticosteroid allerg contact dermat allerg contact dermat follow ocular use corticosteroid,1,0.0,1.0,2676
+708,furosemid thrombocytopenia report describ case furosemid identifi probabl caus drug-induc thrombocytopenia num2-year-old man chronic symptomat idiopath thrombocytopenia seven year discoveri,1,0.1894,0.8106,2682
+709,chloroquin cytotox lc3-ii protein increas treatment num-fu chloroquin potenti cytotox num-fu,1,0.1826,0.8174,2693
+710,yohimbin anxieti previous report increas symptom anxieti patient posttraumat stress disord ptsd follow administr beta num-antagonist yohimbin stimul brain norepinephrin releas,1,0.0,1.0,2705
+711,tocopherol inflamm pattern dietari intak serum carotenoid tocopherol statu associ biomark chronic low-grad system inflamm cardiovascular risk,1,0.1958,0.8042,2719
+712,bortezomib encephalopathi bortezomib-induc posterior revers encephalopathi syndrom clinic imag featur,1,0.19510000000000005,0.8049,2721
+713,diphenhydramin cn dysfunct children diphenhydramin hydroxyzin effect h1-receptor antagonist medic caus cn dysfunct evidenc increas pnum3 latenc measur cognit function increas subject somnol,1,0.0,1.0,2727
+714,ssri sexual dysfunct manag ssri-induc sexual dysfunct,1,0.18500000000000005,0.815,2728
+715,aspirin gastroduoden disord endoscopi frequent reveal gastroduoden disord among low-dos aspirin user administr ba enteric-co aspirin warrant concern gastroduoden ulcer,1,0.1999,0.8001,2740
+716,cocain hypermetabol tradit view cocain caus hypermetabol state increas heat product,1,0.0,1.0,2750
+717,guanethidin thermal hyperalgesia howev iontophoresi noradrenalin thermal hyperalgesia greater guanethidine-pretr site salin pretreat site,1,0.0,1.0,2754
+718,ethanol abdomin pain incid rate abdomin pain procedur ethanol group num2num,1,0.1986,0.8014,2761
+719,zotepin seizur advers event zotepin induc seizur publish case report,1,0.0,1.0,2763
+720,feiba thrombosi thrombosi rare well-recogn potenti complic factor viii inhibitor bypass activ feiba infus,1,0.0,1.0,2764
+721,fentanyl vomit compar oral opioid advantag transderm fentanyl includ lower incid impact advers effect constip nausea vomit daytim drowsi higher degre patient satisfact improv qualiti life improv conveni complianc result administr everi num2 hour decreas use rescu medic,1,0.1884,0.8116,2770
+722,pcp chronic poison chronic poison occur mainli sawmil worker peopl live log home treat pcp-contain wood protect formul,1,0.0,1.0,2778
+723,morphin delirium primari aim studi clarifi efficaci opioid rotat morphin fentanyl symptom palliat morphine-induc delirium,1,0.0,1.0,2780
+724,interferon-alpha symptom depress interferon-alpha ifn-alpha treatment frequent complic symptom depress,1,0.3897000000000001,0.6103,2784
+725,levodopa homocysteinemia calcif tissu int num2 num3-num2 num4 levodopa intak associ increas homocysteinemia known link poorer bone qualiti consequ osteoporot fractur,1,0.0,1.0,2794
+726,vincristin sensory/motor neuropathi although first-gener vinca alkaloid vincristin associ sever mix sensory/motor neuropathi deficit associ newer agent class eg vinflunin gener milder limit distal sensori sign symptom,1,0.0,1.0,2815
+727,fluoxetin sexual dysfunct ssri-induc sexual dysfunct describ fluoxetin paroxetin sertralin fluvoxamin num-num2 week therapi,1,0.1894,0.8106,2825
+728,lenalidomid vte sinc introduct immunomodulatori deriv imid thalidomid lenalidomid therapeut armamentarium mm vte emerg one lead complic particular patient newli diagnos mm,1,0.206,0.794,2850
+729,acrylamid neurotox present review focus sever advers health effect acrylamid includ mutagen genotox carcinogen neurotox reproduct toxic possibl outcom childhood exposur babi food infant formula,1,0.0,1.0,2859
+730,gossypol toxic addit low toxic gossypol thioderiv revers nitric oxid donor physiolog media,1,0.1914,0.8086,2877
+731,mannitol turp syndrom report case hyperglycaemia lactic acidosi complic turp syndrom caus massiv absorpt approxim num2 litr sorbitol- mannitol irrig solut,1,0.0,1.0,2899
+732,adenosin syncop syncop associ document paroxysm atrioventricular block reproduc adenosin num triphosph inject,1,0.3975,0.6025,2924
+733,aza toxic determin current local practic aza dose identifi aza-rel toxic compar local practic british societi rheumatolog bsr recommend,1,0.21930000000000005,0.7807,2938
+734,chloroform poison drug condemn num4 without attempt made determin incid so-cal delay chloroform poison result drug still use chloroform controversi remain unsettl day,1,0.1928,0.8072,2946
+735,iron cytotox catalas suppress cytotox induc iron ion lunum3 cell wherea clvnum3 mel8 cell ineffect,1,0.0,1.0,2950
+736,tacrolimu headach headach symptom num2 patient receiv cyclosporin and/or tacrolimu organ transplant retrospect assess,1,0.3921,0.6079,2952
+737,probenecid pancytopenia sever pancytopenia patient take low dose methotrex probenecid,1,0.0,1.0,2964
+738,alcohol hepatocellular carcinoma cigarett smoke heavi alcohol consumpt hbsag independ associ increas risk mortal hepatocellular carcinoma not interact synergist,1,0.2036,0.7964,2977
+739,levobupivacain toxic cardiac cn toxic levobupivacain strength evid advantag bupivacain,1,0.3865,0.6135,2981
+740,asenapin dizzi pool analysi monotherapi trial common advers event occur num patient twice incid placebo report acut phase asenapin monotherapi bipolar mania somnol dizzi extrapyramid symptom ep akathisia increas bodyweight similar natur occur longer-term monotherapi asenapin,1,0.203,0.797,2984
+741,cocain hyperthermia mechan cocaine-induc hyperthermia human,1,0.3792,0.6208,3005
+742,ixabepilon neuropathi epothilon new class mti may associ grade num/num peripher neuropathi howev neuropathi associ ixabepilon novel epothilon b analog gener mild moder revers baselin grade num level,1,0.0,1.0,3030
+743,cholesterol coronari arteri disease/cad commonli agre peopl high blood ldl-cholesterol higher risk coronari arteri diseas cad peopl low blood ldl-cholesterol,1,0.0,1.0,3035
+744,methadon hydrochlorid ventricular arrhythmia methadon hydrochlorid may increas risk lethal respiratori depress relat accident overdos life-threaten ventricular arrhythmia,1,0.21650000000000005,0.7835,3040
+745,memantin bradycardia littl known cardiovascular effect memantin report bradycardia reduc cardiovascular surviv associ use,1,0.3779,0.6221,3083
